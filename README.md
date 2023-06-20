@@ -24,18 +24,19 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 21 |  |  |
-| Aug 23 |  | |
-| Aug 25 |  [Workshop] SE Basics | |
-| Aug 28 |  | |
+| Aug 21 |  Introduction |  |
+| Aug 23 |  Software Engineering Processes | |
+| Aug 25 |  [Workshop] Software Engineering Basics | |
+| Aug 28 |  SE Processes (cont.) | |
 | Aug 30 |  |  |
-| Sept 1 |  | |
+| Sept 1 | [Discussion] Software Engineers | |
 | Sept 4 | Labor Day |  |
-| Sept 6 |  | |
-| Sept 8 |  |  |
+| <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
+| Sept 6 | Requirements Analysis | |
+| Sept 8 |  [Discussion] |  |
 | Sept 11 |  | |
 | Sept 13 |  |  |
-| Sept 15 |  | |
+| Sept 15 | [Workshop] Requirements | |
 | Sept 18 |  | |
 | Sept 20  |  | |
 | Sept 22  |  | |
@@ -45,7 +46,8 @@ By the end of this course, students should be able to:
 | Oct 2 |   | |
 | Oct 4 |    | |
 | Oct 6 |  |  |
-| Oct 9 | FALL BREAK | |
+| Oct 9 | 🍂 FALL BREAK 🌄 | |
+| <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
 | Oct 11 | |  |
 | Oct 13 | | |
 | Oct 16 | |  |
@@ -63,11 +65,12 @@ By the end of this course, students should be able to:
 | Nov 13  |  | |
 | Nov 15  |  | |
 | Nov 17  |  | |
-| Nov 20  | THANKSGIVING BREAK | |
-| Nov 22  | THANKSGIVING BREAK | |
-| Nov 24  | THANKSGIVING BREAK | |
+| Nov 20  | 🦃 THANKSGIVING BREAK | |
+| Nov 22  | 🦃 THANKSGIVING BREAK | |
+| Nov 24  | 🦃 THANKSGIVING BREAK | |
 | Nov 27  |  | |
 | Nov 29  |  | |
 | Dec 1 |  | |
 | Dec 4  |  | |
 | Dec 6  |  | |
+|  |  💯 Exam 💯  | |
