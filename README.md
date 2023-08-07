@@ -13,7 +13,7 @@ By the end of this course, students should be able to:
 ### Fall 2023 Course Info
 
 * **Lectures:** M/W/F 1:25-2:15pm, Data & Decision Sciences 150
-* **Final Exam:** TBD
+* **Final Exam:** Mon December 11 3:35-5:25pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* TBD
 * **TA:** TBD
 
@@ -73,4 +73,4 @@ By the end of this course, students should be able to:
 | Dec 1  | [Workshop] AI and SE | |
 | Dec 4  | Retrospective | |
 | Dec 6  | Project Workday | |
-|  |  💯 Exam 💯  | |
+| Dec 11 |  💯 Exam 💯  | |
