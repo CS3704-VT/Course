@@ -29,48 +29,48 @@ By the end of this course, students should be able to:
 | Aug 25 | [Workshop] Software Engineering Basics | |
 | Aug 28 | Software Process | |
 | Aug 30 | Software Process (cont.) |  |
-| Sept 1 | [Discussion] Software Engineers | |
+| Sept 1 | [Workshop] Technical Interviews | |
 | Sept 4 | Labor Day |  |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
 | Sept 6 | Requirements | |
-| Sept 8 | [Workshop] Requirements |  |
-| Sept 11 | Requirements (cont.)(*) | |
-| Sept 13 | Project Management(*) |  |
-| Sept 15 | [Workshop] Technical Interviews(*) | |
-| Sept 18 | Project Workday | |
+| Sept 8 | [Discussion] Software Engineers |  |
+| Sept 11 | Requirements (cont.) | |
+| Sept 13 | Project Management |  |
+| Sept 15 | Project Introduction | |
+| Sept 18 | 🌩️ Talks | |
 | Sept 20 | 🌩️ Talks | |
 | Sept 22 | 🌩️ Talks | |
 | Sept 25 | Design | |
-| Sept 27 | Design (cont.)(*) |  |
+| Sept 27 | Design (cont.) |  |
 | Sept 29 | [Workshop] Design | |
-| Oct 2  | Design | |
-| Oct 4  | UI Design(*)  | |
+| Oct 2  | Architecture Design | |
+| Oct 4  | Guest Lecture  | |
 | Oct 6  | [Workshop] Design |  |
 | Oct 9  | 🍂 FALL BREAK 🌄 | |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Oct 11 | Implementation |  |
-| Oct 13 | [Discussion] Code Reviews(****) | |
-| Oct 16 | Code Analysis |  |
+| Oct 11 | Design Patterns |  |
+| Oct 13 | [Discussion] Design | |
+| Oct 16 | UI Design|  |
 | Oct 18 | Exam Review | |
 | Oct 20 | 💯 Exam 💯 | |
-| Oct 23 | Maintenance | |
-| Oct 25 | Maintenance (cont.) |  |
-| Oct 27 | [Workshop] Debugging |  |
-| Oct 30 |  |  |
-| Nov 1  |  | |
-| Nov 3  |  | |
-| Nov 6  |  | |
-| Nov 8  |  | |
-| Nov 10 |  | |
-| Nov 13 |  | |
-| Nov 15 |  | |
-| Nov 17 |  | |
+| Oct 23 | Implementation | |
+| Oct 25 | Code Analysis |  |
+| Oct 27 | [Workshop] Code Review |  |
+| Oct 30 | Maintenance |  |
+| Nov 1  | Refactoring | |
+| Nov 3  | [Workshop] Debugging | |
+| Nov 6  | Testing | |
+| Nov 8  | Testing | |
+| Nov 10 | [Workshop] Testing  | |
+| Nov 13 | Deployment | |
+| Nov 15 | Automated Software Engineering | |
+| Nov 17 | [Workshop] AI and SE | |
 | Nov 20 | 🦃 THANKSGIVING BREAK | |
 | Nov 22 | 🦃 THANKSGIVING BREAK | |
 | Nov 24 | 🦃 THANKSGIVING BREAK | |
-| Nov 27 | Deployment | |
-| Nov 29 | [Discussion] Automated Software Engineering | |
-| Dec 1  | [Workshop] AI and SE | |
-| Dec 4  | Retrospective | |
-| Dec 6  | Project Workday | |
+| Nov 27 | Future of SE | |
+| Nov 29 | Retrospective/Project Workday | |
+| Dec 1  | Final Project Demos | |
+| Dec 4  | Final Project Demos | |
+| Dec 6  | Final Project Demos | |
 | Dec 11 |  💯 Exam 💯  | |
