@@ -24,33 +24,33 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 21 | Introduction |  |
+| Aug 21 | Introduction | HW0 |
 | Aug 23 | Introduction (cont.) | |
-| Aug 25 | [Workshop] Software Engineering Basics | |
+| Aug 25 | [Workshop] Software Engineering Basics, Instructor Travel | |
 | Aug 28 | Software Process | |
 | Aug 30 | Software Process (cont.) |  |
 | Sept 1 | [Workshop] Technical Interviews | |
 | Sept 4 | Labor Day |  |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Sept 6 | Requirements | |
-| Sept 8 | [Discussion] Software Engineers |  |
-| Sept 11 | Requirements (cont.) | |
+| Sept 6 | Requirements Overview | |
+| Sept 8 | Requirements Analysis |  |
+| Sept 11 | Requirements Analysis (cont.) | |
 | Sept 13 | Project Management |  |
-| Sept 15 | Project Introduction | |
-| Sept 18 | 🌩️ Talks | |
-| Sept 20 | 🌩️ Talks | |
-| Sept 22 | 🌩️ Talks | |
-| Sept 25 | Design | |
-| Sept 27 | Design (cont.) |  |
-| Sept 29 | [Workshop] Design | |
-| Oct 2  | Architecture Design | |
+| Sept 15 | [Workshop] Requirements | |
+| Sept 18 | ⚡ Talks | |
+| Sept 20 | ⚡ Talks | |
+| Sept 22 | ⚡ Talks | |
+| Sept 25 | Design Overview | |
+| Sept 27 | High-Level Design |  |
+| Sept 29 | [Workshop] Design Patterns | |
+| Oct 2  | Detailed Design | |
 | Oct 4  | Guest Lecture  | |
-| Oct 6  | [Workshop] Design |  |
+| Oct 6  | [Workshop] Design II |  |
 | Oct 9  | 🍂 FALL BREAK 🌄 | |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Oct 11 | Design Patterns |  |
-| Oct 13 | [Discussion] Design | |
-| Oct 16 | UI Design|  |
+| Oct 11 | Software Design |  |
+| Oct 13 | [Workshop] Code Environments | |
+| Oct 16 | UI Design |  |
 | Oct 18 | Exam Review | |
 | Oct 20 | 💯 Exam 💯 | |
 | Oct 23 | Implementation | |
