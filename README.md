@@ -14,7 +14,7 @@ By the end of this course, students should be able to:
 
 * **Lectures:** M/W/F 1:25-2:15pm, Data & Decision Sciences 150
 * **Final Exam:** Mon December 11 3:25-5:25pm
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* TBD
+* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Mon/Wed, 11am - 12pm
 * **TA:** Xiaoxiao Gan [xiaoxiaog22@vt.edu], *Office hours:* TBD
 * **TA:** Hunter Leary [hunterl22@vt.edu], *Office hours:* TBD
 
@@ -68,6 +68,7 @@ By the end of this course, students should be able to:
 | Nov 13 | Testing | |
 | Nov 15 | Testing (cont.) | |
 | Nov 17 | [Discussion] Testing | |
+|  <tr><th colspan=3> Thanksgiving </th></tr> |
 | Nov 20 | 🦃 THANKSGIVING BREAK | |
 | Nov 22 | 🦃 THANKSGIVING BREAK | |
 | Nov 24 | 🦃 THANKSGIVING BREAK | |
