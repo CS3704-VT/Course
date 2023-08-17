@@ -4,7 +4,7 @@
 
 Software engineering involves the development and maintenance of complex software systems. In this course, students will learn about tools and processes used to implement software in practice, focusing on the requirements and design phases of the software development life cycle. Students will also have an opportunity to work on a project incorporating software development tasks, discuss state-of-the-art SE research, and gain the skills and knowledge necessary to succeed as a software engineer in industry. The course will consist of traditional lectures, practical workshops to gain exposure to SE tools and principles, and seminar-style discussions about advanced research topics in software engineering.
 
-Please see the [Course Syllabus](https://docs.google.com/document/d/1jGqHKlM8QHy8utRZ1Kg8g8SqumzIuqXvaba-oTESLvI/edit?usp=sharing) for additional information about course logistics and policies. We will also use [Canvas](https://canvas.vt.edu/) for submitting coursework and other class activities.
+Please see the [Course Syllabus](https://docs.google.com/document/d/1jGqHKlM8QHy8utRZ1Kg8g8SqumzIuqXvaba-oTESLvI/edit?usp=sharing) for additional information about course logistics and policies. We will also use [Canvas](https://canvas.vt.edu/courses/176246) for submitting coursework and other class activities.
 
 ### Learning Objectives
 
