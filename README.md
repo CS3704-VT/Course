@@ -15,8 +15,10 @@ By the end of this course, students should be able to:
 * **Lectures:** M/W/F 1:25-2:15pm, Data & Decision Sciences 150
 * **Final Exam:** Mon December 11 3:25-5:25pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Mon/Wed, 11am - 12pm
-* **TA:** Xiaoxiao Gan [xiaoxiaog22@vt.edu], *Office hours:* TBD
-* **TA:** Hunter Leary [hunterl22@vt.edu], *Office hours:* TBD
+* **GTA:** Xiaoxiao Gan [xiaoxiaog22@vt.edu], *Office hours:* TBD
+* **GTA:** Hunter Leary [hunterl22@vt.edu], *Office hours:* TBD
+* **UTA:** HyunJe Kim [k3h0j8@vt.edu], *Office hours:* TBD
+* **UTA:** Brian Nguyen [briann02@vt.edu], *Office hours:* TBD
 
 ## Schedule
 
@@ -33,18 +35,18 @@ By the end of this course, students should be able to:
 | Sept 1 | [Workshop] Technical Interviews | |
 | Sept 4 | 💼 LABOR DAY 🌄 |  |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Sept 6 | Requirements Overview | |
+| Sept 6 | Requirements Overview | P0 |
 | Sept 8 | [Discussion] Software Engineers, Group Project | |
-| Sept 11 | Requirements Analysis | PM1 |
+| Sept 11 | Requirements Analysis | P1 |
 | Sept 13 | Requirements Analysis (cont.) |  |
 | Sept 15 | [Workshop] Requirements | |
 | Sept 18 | Requirements Specification | |
 | Sept 20 | Requirements Engineering | |
 | Sept 22 | Project Workday | |
-| Sept 25 | ⚡ Talks | PM2  |
+| Sept 25 | ⚡ Talks | |
 | Sept 27 | ⚡ Talks | |
 | Sept 29 | ⚡ Talks | |
-| Oct 2  | Project Management | |
+| Oct 2  | Project Management | PM2 |
 | Oct 4  | Guest Lecture  | |
 | Oct 6  | Project Workday, Instructor Travel |  |
 | Oct 9  | 🍂 FALL BREAK 🌄 | |
