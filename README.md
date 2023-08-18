@@ -27,7 +27,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 21 | Introduction | HW0 |
+| Aug 21 | Introduction | [HW0](HWs/HW0.md) |
 | Aug 23 | Introduction (cont.) | |
 | Aug 25 | [Workshop] Software Engineering Basics, Instructor Travel | |
 | Aug 28 | Software Process | HW1 |
