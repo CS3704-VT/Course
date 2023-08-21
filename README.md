@@ -35,9 +35,9 @@ By the end of this course, students should be able to:
 | Sept 1 | [Workshop] Technical Interviews | |
 | Sept 4 | 💼 LABOR DAY 🌄 |  |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Sept 6 | Requirements Overview | P0 |
+| Sept 6 | Requirements Overview | PM0 |
 | Sept 8 | [Discussion] Software Engineers, Group Project | |
-| Sept 11 | Requirements Analysis | P1 |
+| Sept 11 | Requirements Analysis | PM1 |
 | Sept 13 | Requirements Analysis (cont.) |  |
 | Sept 15 | [Workshop] Requirements | |
 | Sept 18 | Requirements Specification | |
