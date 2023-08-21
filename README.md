@@ -15,10 +15,10 @@ By the end of this course, students should be able to:
 * **Lectures:** M/W/F 1:25-2:15pm, Data & Decision Sciences 150
 * **Final Exam:** Mon December 11 3:25-5:25pm
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Mon/Wed, 11am - 12pm
-* **GTA:** Xiaoxiao Gan [xiaoxiaog22@vt.edu], *Office hours:* TBD
-* **GTA:** Hunter Leary [hunterl22@vt.edu], *Office hours:* TBD
-* **UTA:** HyunJe Kim [k3h0j8@vt.edu], *Office hours:* TBD
-* **UTA:** Brian Nguyen [briann02@vt.edu], *Office hours:* TBD
+* **GTA:** Xiaoxiao Gan [xiaoxiaog22@vt.edu], *Office hours:* Th, 2 - 4pm
+* **GTA:** Hunter Leary [hunterl22@vt.edu], *Office hours:* Tu, 11am - 1pm
+* **UTA:** HyunJe Kim [k3h0j8@vt.edu], *Office hours:* Mon/Wed/Fri, 9 - 11am; Tu/Th, 9 - 10:30am
+* **UTA:** Brian Nguyen [briann02@vt.edu], *Office hours:* Mon/Wed/Fri, 4 - 5pm; Tu/Th, 1 - 3pm
 
 ## Schedule
 
