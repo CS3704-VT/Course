@@ -17,8 +17,8 @@ By the end of this course, students should be able to:
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Mon/Wed, 11am - 12pm
 * **GTA:** Xiaoxiao Gan [xiaoxiaog22@vt.edu], *Office hours:* Th, 2 - 4pm
 * **GTA:** Hunter Leary [hunterl22@vt.edu], *Office hours:* Tu, 11am - 1pm
-* **UTA:** HyunJe Kim [k3h0j8@vt.edu], *Office hours:* Mon/Wed/Fri, 9 - 11am; Tu/Th, 9 - 10:30am
-* **UTA:** Brian Nguyen [briann02@vt.edu], *Office hours:* Mon/Wed/Fri, 4 - 5pm; Tu/Th, 1 - 3pm
+* **UTA:** HyunJe Kim [k3h0j8@vt.edu], *Office hours:* Mon/Wed/Fri, 9 - 11am
+* **UTA:** Brian Nguyen [briann02@vt.edu], *Office hours:* Tu 1 - 3pm, Th 1 - 2pm
 
 ## Schedule
 
