@@ -48,16 +48,16 @@ By the end of this course, students should be able to:
 | Sept 29 | ⚡ Talks | |
 | Oct 2  | Project Management | PM2 |
 | Oct 4  | Guest Lecture  | |
-| Oct 6  | Project Workday, Instructor Travel |  |
-| Oct 9  | 🍂 FALL BREAK 🌄 | |
+| Oct 6  | 🍂 FALL BREAK 🌄 |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Oct 11 | Design Overview | HW3 |
-| Oct 13 | [Discussion] SE Processes and Requirements | |
+| Oct 9  | Design Overview | HW3 |
+| Oct 11 | [Discussion] SE Processes |  |
+| Oct 13 | [Discussion] Requirements | |
 | Oct 16 | High-Level Design |  |
-| Oct 18 | Detailed Design | |
+| Oct 18 | High-Level Design (cont.) | |
 | Oct 20 | [Workshop] Design Patterns | |
-| Oct 23 | Detailed Design (cont.) | PM3 |
-| Oct 25 | UI Design |  |
+| Oct 23 | Detailed Design | PM3 |
+| Oct 25 | Detailed Design (cont.) |  |
 | Oct 27 | [Discussion] Design |  |
 | Oct 30 | Coding Metrics |  |
 | Nov 1  | Exam Review | |
@@ -68,14 +68,14 @@ By the end of this course, students should be able to:
 | Nov 10 | [Discussion] Implementation and Maintenance  | |
 |  <tr><th colspan=3> ✅ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪 </th></tr> |
 | Nov 13 | Testing | |
-| Nov 15 | Testing (cont.) | |
+| Nov 15 | [Workshop] Testing and Development Environments | |
 | Nov 17 | [Discussion] Testing | |
 |  <tr><th colspan=3> Thanksgiving </th></tr> |
 | Nov 20 | 🦃 THANKSGIVING BREAK | |
 | Nov 22 | 🦃 THANKSGIVING BREAK | |
 | Nov 24 | 🦃 THANKSGIVING BREAK | |
 |  <tr><th colspan=3> 🖥️ &nbsp;&nbsp;&nbsp; Advanced Topics in SE &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
-| Nov 27 | Deployment Overview | PM4 |
+| Nov 27 | Deployment | PM4 |
 | Nov 29 | [Discussion] Advanced Topics | |
 | Dec 1  | [Workshop] Automated Software Engineering, Retrospective | |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
