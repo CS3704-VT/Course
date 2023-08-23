@@ -22,63 +22,63 @@ By the end of this course, students should be able to:
 
 ## Schedule
 
-➡️ _Please note this schedule is subject to change. **All homework (HW) and project milestone (PM) assignments are due at 11:59pm on the Friday of the next week unless otherwise specified.**_
+➡️ _Please note this schedule is subject to change. **All homework (HW) and project milestone (PM) assignments are due at 11:59pm unless otherwise specified.**_
 
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 21 | Introduction | HW0 |
+| Aug 21 | Introduction | **HW0** |
 | Aug 23 | Introduction (cont.) | |
-| Aug 25 | [Workshop] Software Engineering Basics, Instructor Travel | |
-| Aug 28 | Software Process | HW1 |
+| Aug 25 | [Workshop] Software Engineering Basics, Instructor Travel | HW0 due |
+| Aug 28 | Software Process | **HW1** |
 | Aug 30 | Software Process (cont.) |  |
 | Sept 1 | [Workshop] Technical Interviews | |
 | Sept 4 | 💼 LABOR DAY 🌄 |  |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Sept 6 | Requirements Overview, Group Project Requirements | PM0 |
-| Sept 8 | [Discussion] Software Engineers | |
-| Sept 11 | Requirements Analysis | PM1 |
+| Sept 6 | Requirements Overview, Group Project Requirements | **PM0** |
+| Sept 8 | [Discussion] Software Engineers | HW1 due |
+| Sept 11 | Requirements Analysis | PM0 due, **PM1** |
 | Sept 13 | Requirements Analysis (cont.) |  |
 | Sept 15 | [Workshop] Requirements | |
 | Sept 18 | Requirements Specification | |
 | Sept 20 | Requirements Engineering | |
-| Sept 22 | Project Workday | |
+| Sept 22 | Project Workday | PM1 due |
 | Sept 25 | ⚡ Talks | |
 | Sept 27 | ⚡ Talks | |
 | Sept 29 | ⚡ Talks | |
-| Oct 2  | Project Management | PM2 |
+| Oct 2  | Project Management | **PM2** |
 | Oct 4  | Guest Lecture  | |
 | Oct 6  | 🍂 FALL BREAK 🌄 |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Oct 9  | Design Overview | HW3 |
+| Oct 9  | Design Overview | **HW3** |
 | Oct 11 | [Discussion] SE Processes |  |
-| Oct 13 | [Discussion] Requirements | |
+| Oct 13 | [Discussion] Requirements | PM2 due |
 | Oct 16 | High-Level Design |  |
 | Oct 18 | High-Level Design (cont.) | |
-| Oct 20 | [Workshop] Design Patterns | |
-| Oct 23 | Detailed Design | PM3 |
+| Oct 20 | [Workshop] Design Patterns | HW3 due |
+| Oct 23 | Detailed Design | **PM3** |
 | Oct 25 | Detailed Design (cont.) |  |
 | Oct 27 | [Discussion] Design |  |
 | Oct 30 | Coding Metrics |  |
 | Nov 1  | Exam Review | |
 | Nov 3  | 💯 Exam 💯 | |
 | <tr><th colspan=3>  🚧 &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹 </th></tr> |
-| Nov 6  | Implementation | HW4 |
+| Nov 6  | Implementation | **HW4** |
 | Nov 8  | Maintenance | |
-| Nov 10 | [Discussion] Implementation and Maintenance  | |
+| Nov 10 | [Discussion] Implementation and Maintenance  | PM3 due |
 |  <tr><th colspan=3> ✅ &nbsp;&nbsp;&nbsp; Testing &nbsp;&nbsp;&nbsp; 🧪 </th></tr> |
 | Nov 13 | Testing | |
 | Nov 15 | [Workshop] Testing and Development Environments | |
-| Nov 17 | [Discussion] Testing | |
+| Nov 17 | [Discussion] Testing | HW4 due |
 |  <tr><th colspan=3> Thanksgiving </th></tr> |
 | Nov 20 | 🦃 THANKSGIVING BREAK | |
 | Nov 22 | 🦃 THANKSGIVING BREAK | |
 | Nov 24 | 🦃 THANKSGIVING BREAK | |
 |  <tr><th colspan=3> 🖥️ &nbsp;&nbsp;&nbsp; Advanced Topics in SE &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
-| Nov 27 | Deployment | PM4 |
+| Nov 27 | Deployment | **PM4** |
 | Nov 29 | [Discussion] Advanced Topics | |
 | Dec 1  | [Workshop] Automated Software Engineering, Retrospective | |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
-| Dec 4  | Final Project Demos | |
+| Dec 4  | Final Project Demos | PM4.1 due (before class) |
 | Dec 6  | Final Project Demos | |
-| Dec 11 | Final Project Demos | |
+| Dec 11 | Final Project Demos | PM4 due |
