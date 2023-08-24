@@ -79,6 +79,6 @@ By the end of this course, students should be able to:
 | Nov 29 | [Discussion] Advanced Topics | |
 | Dec 1  | [Workshop] Automated Software Engineering, Retrospective | |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
-| Dec 4  | Final Project Demos | PM4.1 due (before class) |
+| Dec 4  | Final Project Demos | |
 | Dec 6  | Final Project Demos | |
 | Dec 11 | Final Project Demos | PM4 due |
