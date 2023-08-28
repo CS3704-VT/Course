@@ -27,10 +27,10 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 21 | Introduction | **HW0** |
+| Aug 21 | Introduction | [**HW0**](HWs/HW0.md) |
 | Aug 23 | Introduction (cont.) | |
 | Aug 25 | [Workshop] Software Engineering Basics, Instructor Travel | HW0 due |
-| Aug 28 | Software Process | **HW1** |
+| Aug 28 | Software Process | [**HW1**](https://canvas.vt.edu/courses/176246/assignments/1900058) |
 | Aug 30 | Software Process (cont.) |  |
 | Sept 1 | [Workshop] Technical Interviews | |
 | Sept 4 | 💼 LABOR DAY 🌄 |  |
