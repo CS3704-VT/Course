@@ -43,12 +43,12 @@ By the end of this course, students should be able to:
 | Sept 18 | Requirements Specification | |
 | Sept 20 | Requirements Engineering | |
 | Sept 22 | Project Workday | PM1 due |
-| Sept 25 | ⚡ Talks | |
+| Sept 25 | ⚡ Talks | **HW2** |
 | Sept 27 | ⚡ Talks | |
 | Sept 29 | ⚡ Talks | |
 | Oct 2  | Project Management | **PM2** |
 | Oct 4  | Guest Lecture  | |
-| Oct 6  | 🍂 FALL BREAK 🌄 |  |
+| Oct 6  | 🍂 FALL BREAK 🌄 | HW2 due |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
 | Oct 9  | Design Overview | **HW3** |
 | Oct 11 | [Discussion] SE Processes |  |
