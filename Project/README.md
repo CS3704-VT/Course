@@ -37,7 +37,7 @@ You will submit your project in multiple milestones throughout the semester. Mor
 |                 | High-Level Design     |         |
 |                 | Low-Level Design      |         |
 | [PM4](Testing.md)   | Black Box Test Plan   |  Dec 11 |
-|                 | Final Presentation    | Dec 4, 6, and 11 in class |
+|                 | Final Presentation    | Dec 4 before class (slides) |
 |                 | Final Report          |         |
 |                 | Retrospective         |         |
 
