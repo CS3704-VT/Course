@@ -1,7 +1,9 @@
 # Process
 
-### __Lightning Talk__
-* Your group must complete an oral proposal presentation during class provding an overview of the project you wish to complete for the semester. This talk must include a problem statement, your proposed solution, how your proposed work relates to the overall project goal, and **at least one** example `requirement` use cases (see below for details). You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. There will also be a brief time of Q&A from students after each presentation on your proposed work. The proposal oral presentation will be graded according to [this rubric](https://docs.google.com/spreadsheets/d/11xcUHQSFY8ux6Uu5WFnAOOUkZMLuNnf71mxmHcMmo8c/edit?usp=sharing). 
+### __Lightning Talk__ (15%)
+* Your group must complete an oral proposal presentation during class provding an overview of the project you wish to complete for the semester. This talk must include a problem statement, your proposed solution, how your proposed work relates to the overall project goal, and **at least one** example `requirement` use cases (see below for details). You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. There will also be a brief time of Q&A from students after each presentation on your proposed work.
+
+   **Rubric: TBD**
 
 #### __Use Case__
 
@@ -25,7 +27,7 @@ Use Case: Create a meeting
   [E1] No team members are available.
 ```
 
-### Project Proposal
+### Project Proposal (15%)
 
 * Your project team must also submit a project proposal document. The proposal must conform to the International Conference on Software Engineering (ICSE) formatting guidelines (see the [MS Word](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx), [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) templates). The proposal must introduce your project and provide a high-level overview of the SE process your team plans to use. Your document should be no more than 2-pages (excluding references). Please check your document for typos and spelling or grammar errors. The proposal must contain:
     * a relevant _title_ and all group members listed as _authors_;
@@ -36,6 +38,7 @@ Use Case: Create a meeting
     * and _references_ to any appropriate citations, if applicable. 
 
  * You will receive feedback from the teaching staff on the document and presentation for your proposal to approve of your course project for the semester.
+    **Rubric: TBD**
 
  **Due:** September 22 at 11:59pm
 - [ ] Lightning talk slides

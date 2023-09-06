@@ -22,23 +22,25 @@ All projects should be maintained on a [GitHub](https://github.com) repository. 
 
 ## Deliverables
 
-You will submit your project in multiple milestones throughout the semester. More details about the specific deliverables for your project are available below. All milestones are due at 11:59pm on the date specified unless otherwise noted.
+You will submit your project in multiple milestones throughout the semester. More details about the specific deliverables for your project are available below:
 
 |  Milestone  | Deliverables (Project Grade %)    |  Deadline       |
 |---------|----------------------------------|-----------------|
 | [PM0](PM0.md)   | Group Preferences     | Sept 11 |
-|                 | Project Questions     |         |
+|                 | Project Questions  (5%)   |         |
 | [PM1](Process.md)   | Lightning Talk        | Sept 22 |
-|                 | Project Proposal      |         |
+|                 | Project Proposal   (30%)   |         |
 | [PM2](Requirements.md)   | Process I     |  Oct 13 |
 |                 | Requirements Workshop |         |
-|                 | Use Case Documentation|         |
+|                 | Requirements Analysis |         |
+|                 | Requirements Specification (15%) |    |
 | [PM3](Design.md)   | Process II         |  Nov 10 |
 |                 | High-Level Design     |         |
 |                 | Low-Level Design      |         |
+|                 | UI Design      |         |
 | [PM4](Testing.md)   | Black Box Test Plan   |  Dec 11 |
-|                 | Final Presentation    | Dec 4 before class (slides) |
+|                 | Final Presentation    | _Dec 4 before class (slides)_ |
 |                 | Final Report          |         |
-|                 | Retrospective         |         |
+|                 | Retrospective (35%) |         |
 
-__Late Policy:__ No late work will be accepted unless there are extreme circumstances approved by the instructor. All deliverables must be turned in by 11:59pm on the given due date unless otherwise specified.
+__Late Policy:__ All milestones are due at 11:59pm on the date specified unless otherwise noted. Late work will be subjected to the same penalty as the course late submission policy (-25% per day).
