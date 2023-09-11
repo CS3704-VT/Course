@@ -27,11 +27,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-<<<<<<< HEAD
-| Aug 21 | Introduction | [HW0](HWs/HW0.md) |
-=======
 | Aug 21 | Introduction | [**HW0**](HWs/HW0.md) |
->>>>>>> 9b2321d6d638b414dc00c3dbb4251f9ec4d5a0b7
 | Aug 23 | Introduction (cont.) | |
 | Aug 25 | [[Workshop] Software Engineering Basics]([https://github.com/CS3704-VT/Course/tree/main/resources/slides](https://docable.cloud/api/share/dcbrown/v/63c9b2bfc2f71672f7c45475)) | HW0 due |
 | Aug 28 | Software Process | [**HW1**](https://canvas.vt.edu/courses/176246/assignments/1900058) |
