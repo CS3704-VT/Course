@@ -8,7 +8,7 @@ We will have a requirements workshop in class on September 15. This workshop sho
 
 Requirements analysis is the process of _understanding_ the requirements for a software application. This deliverable will include _n_:
 * Fully dressed use cases
-* Use case diagrams for each use case
+* Model (use case or sequence diagrams) for representing each use case
 
 ### Requirements Specification (5%)
 

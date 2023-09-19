@@ -30,12 +30,13 @@ Use Case: Create a meeting
 ### Project Proposal (15%)
 
 Your project team must also submit a project proposal document. The proposal must conform to the International Conference on Software Engineering (ICSE) formatting guidelines (see the [MS Word](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx), [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) templates). The proposal must introduce your project and provide a high-level overview of the SE process your team plans to use. Your document should be no more than 2-pages (excluding references). Please check your document for typos and spelling or grammar errors. The proposal must contain:
-    * a relevant _title_ and all group members listed as _authors_;
-    * an _abstract_ briefly describing the problem and proposed solution;
-    * an _introduction_ that further explains the problem and motivates the need for the proposed solution;
-    * _related work_ presenting relevant software engineering tools or research studies; 
-    * a brief description of the _software engineering process_ your team plans to use for the project and why;
-    * and _references_ to any appropriate citations, if applicable. 
+
+* a relevant _title_ and all group members listed as _authors_;
+* an _abstract_ briefly describing the problem and proposed solution;
+* an _introduction_ that further explains the problem and motivates the need for the proposed solution;
+* _related work_ presenting relevant software engineering tools or research studies; 
+* a brief description of the _software engineering process_ your team plans to use for the project and why;
+* and _references_ to any appropriate citations, if applicable. 
 
  * You will receive feedback from the teaching staff on the document and presentation for your proposal to approve of your course project for the semester.
 

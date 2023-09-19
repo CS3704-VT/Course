@@ -27,7 +27,7 @@ Bad example ❌: <img src="../resources/imgs/bad_profile.png" width="250"/>
 **TODO:** To further help us all get to know each other, please introduce yourself. After your profile has been created, write a brief paragraph in the #general channel of the CS5704 [Spring 2023] Slack that contains the following information:
 - [ ] Name
 - [ ] Where are you from?
-- [ ] Do you have any previous software engineering experience? If so, where did you work and for how long?
+- [ ] Do you have any previous software engineering experience? If so, where did you work and for how long? What programming languages are you familiar with?
 - [ ] What do you hope to get out of this course?
 
 ## Version Control
