@@ -6,15 +6,9 @@ We will have a requirements workshop in class on September 15. This workshop sho
 
 ### Requirements Analysis (5%)
 
-Requirements analysis is the process of _understanding_ the requirements for a software application. This deliverable will include _n_:
+Requirements analysis is the process of _understanding_ the requirements for a software application. This deliverable will include _5_:
 * Fully dressed use cases
 * Model (use case or sequence diagrams) for representing each use case
-
-### Requirements Specification (5%)
-
-Requirements specification is the process of _describing_ the requirements for a software application. This deliverable will include _n_:
-* User stories
-* Acceptance criteria for each user story
 
 ### Process Deliverable (2%)
 
@@ -32,5 +26,4 @@ For other processes not listed above, the instructor will contact you with the e
  **Due:** October 13 at 11:59pm
 - [ ] Requirements Workshop
 - [ ] Requirements Analysis
-- [ ] Requirements Specification
 - [ ] Process I deliverable
