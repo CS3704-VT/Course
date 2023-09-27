@@ -48,9 +48,9 @@ By the end of this course, students should be able to:
 | Sept 29 | ⚡ Talks | |
 | Oct 2  | Project Management | **PM2** |
 | Oct 4  | Guest Lecture  | |
-| Oct 6  | 🍂 FALL BREAK 🌄 | HW2 due |
+| Oct 6  | 🍂 FALL BREAK 🌄 |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Oct 9  | Design Overview | **HW3** |
+| Oct 9  | Design Overview | **HW3**, HW2 due |
 | Oct 11 | [Discussion] SE Processes |  |
 | Oct 13 | [Discussion] Requirements | PM2 due |
 | Oct 16 | High-Level Design |  |
