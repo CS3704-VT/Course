@@ -19,13 +19,13 @@ Requirements specification is the process of _describing_ the requirements for a
 ### Process Deliverable (2%)
 
 The submission for this deliverable will depend on the specific SE process model your team plans to use to complete the group project (as described in your project proposal). Example submissions for different processes include:
-* Prototyping: submit a prototype of your system
+* Prototyping: submit a prototype of your system (can be as formal/informal as needed)
 * Scrum: submit the notes (including each teammate) from your most recent scrum meeting
-* Kanban: submit a list of prioritized tasks from your task management system
+* Kanban: submit a list of prioritized tasks from your task management system (and why they are prioritized)
 * Waterfall: submit supplementary planning documentation
 * Extreme programming: submit acceptance test criteria
 * Spiral: submit risk analysis
-* ...
+* Code-and-fix: up-to-date source code in your GitHub repository
 For other processes not listed above, the instructor will contact you with the exact submission requirements for this task.
 
 
