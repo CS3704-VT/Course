@@ -19,7 +19,7 @@ The submission for this deliverable will depend on the specific SE process model
 * Waterfall: submit supplementary planning documentation
 * Extreme programming: submit acceptance test criteria
 * Spiral: submit risk analysis
-* Code-and-fix: up-to-date source code in your GitHub repository
+* Code-and-fix: essay on why you used code-and-fix or up-to-date source code in your GitHub repository
 For other processes not listed above, the instructor will contact you with the exact submission requirements for this task.
 
 
