@@ -9,6 +9,14 @@ Please see the [Course Syllabus](https://docs.google.com/document/d/1jGqHKlM8QHy
 ### Learning Objectives
 
 By the end of this course, students should be able to:
+* Understand software engineering processes, methods, and tools used in the software development life cycle (SDLC)
+* Use techniques and processes to create and analyze requirements for an application
+* Use techniques and processes to design a software system
+* Identify processes, methods, and tools related to phases of the SDLC
+* Explain the differences between software engineering processes
+* Discuss research questions and current topics related to software engineering
+* Create and communicate about the requirements and design of a software application
+
 
 ### Fall 2023 Course Info
 
