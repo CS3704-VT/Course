@@ -17,6 +17,10 @@ Design sketches provide a visual overview of the look and feel of your project. 
 
 Provide a brief rationale (no more than 1 paragraph) explaining some of the design decisions for your program based on the provided sketch.
 
+### Project Sprint Check-In
+
+Complete [this survey](https://forms.gle/XwNUaj4xjuH6grsq8) to provide an update on your team progress on the project for this semester. Only one team member needs to complete this for the group.
+
 ### Process Deliverable (3%)
 
 The submission for this deliverable will depend on the specific SE process model your team plans to use to complete the group project (as described in your project proposal). Example submissions for different processes include:
@@ -35,3 +39,4 @@ For other processes not listed above, the instructor will contact you with the e
 - [ ] Low-level design
 - [ ] Mock user interface
 - [ ] Process II deliverable
+- [ ] Sprint Check-in survey
