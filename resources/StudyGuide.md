@@ -20,7 +20,7 @@ The exam will be an overview of all the materials covered in class for the semes
 * Describe techniques for requirements prioritization
 
 ### Design
-* Understand the difference between the design pattern families
+* Understand the difference between the design pattern families and high-level architecture patterns
 * Understand different software design concepts (i.e. abstraction, modularity, etc.)
 * Describe user interface design processes
 * Explain the advantages and disadvantages of using design patterns
