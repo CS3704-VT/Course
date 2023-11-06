@@ -14,7 +14,7 @@ For the following activity, find a partner in class with shared knowledge of a p
 > * One student will be the driver while the other navigates to write a function that converts an [integer to a Roman Numeral](https://leetcode.com/problems/integer-to-roman/).
 > * Then, students will switch roles to develop a function that converts [Roman numerals to integers](https://leetcode.com/problems/roman-to-integer/).
 
-> The driver must complete their portion of the program on their own machine. When driving, _**each student**_ should add comments in the program to describe what the function does, who wrote it, and which IDE or text editor was used to write the code. Create your method(s) in a file named Roman.<ext>. You are not expected to come 
+The driver must complete their portion of the program on their own machine. When driving, _**each student**_ should add comments in the program to describe what the function does, who wrote it, and which IDE or text editor was used to write the code. Create your method(s) in a file named Roman.<ext>. You are not expected to come 
 up with the most efficient or correct solution---this is an activity to practice pair programming and track attendance, not a job interview. Only the conversion 
 methods are needed.
 
