@@ -1,10 +1,17 @@
 
 ### __Black Box Test Plan__ (3%)
 
+A test plan is a detailed document that outlines test cases for a given software system. Test cases are the functionalities and/or features to test in a software system. A good test plan has the following properties:
+
+* Repeatable: able to be replicated by other developers on the team
+* Specific: descriptive steps to follow
+* Focused: Each test should only analyze one particular function of the system
+
+Black box test plans are documents that use plain language for stakeholders to follow to verify the program. You must create a black box test plan with at least ten unique black box est cases with the required test case information (see a template in the Lecture Slides). If you are not implementing your project, you may leave the Actual Results column blank (but it must be present in the plan to receive full credit).
 
 ### __Final Presentation__ (15%)
 
-Instead of a final exam, your group must give a 10 minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, updated use cases with diagrams, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ PM4 on December 4th before class. The final presentations will take place in class December 4, 6, and 11. The order of lightning talks will be randomly selected immediately before class on December 4.
+Instead of a final exam, your group must give a 10 or 12 minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, updated use cases with diagrams, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ PM4 on December 4th before class. The final presentations will take place in class December 4, 6, and 11. The order of lightning talks will be randomly selected immediately before class on December 4.
   
  **Rubric: TBD**
 
