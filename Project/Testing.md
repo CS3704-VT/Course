@@ -7,13 +7,13 @@ A test plan is a detailed document that outlines test cases for a given software
 * Specific: descriptive steps to follow
 * Focused: Each test should only analyze one particular function of the system
 
-Black box test plans are documents that use plain language for stakeholders to follow to verify the program. You must create a black box test plan with at least ten unique black box est cases with the required test case information (see a template in the Lecture Slides). If you are not implementing your project, you may leave the Actual Results column blank (but it must be present in the plan to receive full credit).
+Black box test plans are documents that use plain language for stakeholders to follow to verify the program. You must create a black box test plan with at least ten unique black box est cases with the required test case information (see a template in the [Lecture Slides](../resources/slides/testing.pdf)). If you are not implementing your project, you may leave the Actual Results column blank (but it must be present in the plan to receive full credit).
 
 ### __Final Presentation__ (15%)
 
 Instead of a final exam, your group must give a 10 or 12 minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, updated use cases with diagrams, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ PM4 on December 4th before class. The final presentations will take place in class December 4, 6, and 11. The order of lightning talks will be randomly selected immediately before class on December 4.
   
- **Rubric: TBD**
+ **Rubric: [Final Presentation](../resources/rubrics/final_presentation.pdf)**
 
 ### __Final Report__ (15%)
 The final report must be no more than 10 pages (not including references) and follow the same ICSE formatting guidelines as the Proposal Document. The final project report must contain the following:
@@ -29,10 +29,12 @@ The final report must be no more than 10 pages (not including references) and fo
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ for any works that you cite.
     
-   **Rubric: TBD**
+   **Rubric: [Final Report](../resources/rubrics/final_report.pdf)**
 
 ### __Retrospective__ (2%)
 At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository.
+
+**[Retrospective Survey](https://docs.google.com/forms/d/e/1FAIpQLScm1I6E5_Gele58n59st-2DvfaWqqwoSUf2JCJioQ8ruZrUtA/viewform?usp=sf_link)**
 
 **Due:** December 4 at 1:25pm
 - [ ] Final presentation slides
