@@ -39,11 +39,11 @@ By the end of this course, students should be able to:
 | Aug 28  | Software Process | |
 | Aug 30  | Software Process (cont.) |  |
 | Sept 2  | 💼 LABOR DAY, NO CLASS 🌄 | HW1 |
-| Sept 4  | [Workshop] SE Basics |  |
-| Sept 6  | [Workshop] Technical Interviews | **HW0 due**, **PM0 due** |
+| Sept 4  | [Workshop] Technical Interviews |  |
+| Sept 6  | Project Workday  | **HW0 due**, **PM0 due** |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
 | Sept 9  | 👩‍💼 CAREER FAIR, NO CLASS 👨‍💼 |  |
-| Sept 11 | Requirements Overview |  |
+| Sept 11 | Requirements and Design Overview |  |
 | Sept 13 | Requirements Elicitation | **HW1 due** |
 | Sept 16 | Requirements Analysis | HW2 |
 | Sept 18 | Requirements Specification |  |
@@ -51,8 +51,8 @@ By the end of this course, students should be able to:
 | Sept 23 | ⚡ Talks | **PM1.1 due (before class)** |
 | Sept 25 | ⚡ Talks | |
 | Sept 27 | ⚡ Talks | **PM1 due** |
-| Sept 30 | Project Management | |
-| Oct 2   | Design Overview | |
+| Sept 30 | [Workshop] SE Processes | |
+| Oct 2   | Project Management| |
 | Oct 4   | High-Level Design | **HW2 due** |
 | Oct 7   | Database Design | HW3 |
 | Oct 9   | UI/UX Design  | |
@@ -78,10 +78,10 @@ By the end of this course, students should be able to:
 | Nov 18  | CI/CD |  |
 | Nov 20  | Deployment | |
 | Nov 22  | [Workshop] AI for SE | **PM3 due** |
-|  <tr><th colspan=3> Thanksgiving </th></tr> |
-| Nov 25 | 🦃 THANKSGIVING BREAK, NO CLASS | |
-| Nov 27 | 🦃 THANKSGIVING BREAK, NO CLASS | |
-| Nov 29 | 🦃 THANKSGIVING BREAK, NO CLASS | |
+|  <tr><th colspan=3> Thanksgiving Break </th></tr> |
+| Nov 25 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
+| Nov 27 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
+| Nov 29 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
 | Dec 2  | [Discussion] AI Writing Code  |  |
 | Dec 4  | [Discussion] Advanced Topics | |
 | Dec 6  | Retrospective / Project Workday | **PM4 due** |
