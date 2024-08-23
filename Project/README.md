@@ -30,6 +30,7 @@ You will submit your project in multiple milestones throughout the semester. Mor
 |             | Project Questions     |         |
 |             | Initial Ideas         |         |
 | [PM1] (30%) | Lightning Talk        | Sept 23 _(slides due before class)_ |
+|             | Requirements Elicitation|       |
 |             | Project Proposal      | Sept 27 |
 | [PM2] (15%) | Process I             |  Oct 4  |
 |             | Requirements Analysis |         |
