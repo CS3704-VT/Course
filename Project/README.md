@@ -26,10 +26,10 @@ You will submit your project in multiple milestones throughout the semester. Mor
 
 |  Milestone (Project Grade %) | Deliverables     |  Deadline       |
 |---------|----------------------------------|-----------------|
-| [PM0] (5%)  | Meet Group            | Sept 9  |
+| [PM0](./PM0.md) (5%)  | Meet Group            | Sept 9  |
 |             | Project Questions     |         |
 |             | Initial Ideas         |         |
-| [PM1] (30%) | Lightning Talk        | Sept 23 _(slides due before class)_ |
+| [PM1](./PM1.md) (30%) | Lightning Talk        | Sept 23 _(slides due before class)_ |
 |             | Requirements Elicitation|       |
 |             | Project Proposal      | Sept 27 |
 | [PM2] (15%) | Process I             |  Oct 4  |
