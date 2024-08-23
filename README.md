@@ -23,7 +23,7 @@ By the end of this course, students should be able to:
 * **Lectures:** M/W/F 1:25-2:15pm, TORG 1060
 * **Final Exam:** Tues December 17 7:45-9:45am
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Mon 11am-1pm
-* **GTA:** [Munshi Ali Muid](munshira@vt.edu), *Office hours:* TBD
+* **GTA:** [Munshi Ali Muid](munshira@vt.edu), *Office hours:* Wed 11am-1pm
 * **GTA:** [Swanand Vaishampayan](swanandsv@vt.edu), *Office hours:* TBD
 * **UTA:** [Ryan Szilvasi](rszilvasi@vt.edu), *Office hours:* TBD
 * **UTA:** [Eric Wang](ericwang42@vt.edu), *Office hours:* TBD
@@ -39,8 +39,8 @@ By the end of this course, students should be able to:
 | Aug 28  | Software Process | |
 | Aug 30  | Software Process (cont.) |  |
 | Sept 2  | 💼 LABOR DAY, NO CLASS 🌄 | HW1 |
-| Sept 4  | [Workshop] Technical Interviews |  |
-| Sept 6  | Project Workday | **HW0 due**, **PM0 due** |
+| Sept 4  | [Workshop] SE Basics |  |
+| Sept 6  | [Workshop] Technical Interviews | **HW0 due**, **PM0 due** |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
 | Sept 9  | 👩‍💼 CAREER FAIR, NO CLASS 👨‍💼 |  |
 | Sept 11 | Requirements Overview |  |
@@ -67,25 +67,25 @@ By the end of this course, students should be able to:
 | Oct 28  | [Discussion] SE and SE Processes |  |
 | Oct 30  | [Discussion] Requirements |  |
 | Nov 1   | [Discussion] Design | **PM2 due** |
-| <tr><th colspan=3>  🧹 &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🚧  </th></tr> |
+| <tr><th colspan=3>  🧹 &nbsp;&nbsp;&nbsp; Implementation, Maintenance, and Testing &nbsp;&nbsp;&nbsp; 🧪  </th></tr> |
 | Nov 4   | Implementation | HW4 |
 | Nov 6   | Maintenance | |
 | Nov 8   | [Discussion] Humans Writing Code  | |
 | Nov 11  | [Discussion] Code Reviews | |
 | Nov 13  | [Discussion] Debugging | | 
 | Nov 15  | Testing |  **HW4 due** |
-|  <tr><th colspan=3> 🧪 &nbsp;&nbsp;&nbsp; Testing and Advanced Topics &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
-| Nov 18  | Testing |  |
+|  <tr><th colspan=3> 🧪 &nbsp;&nbsp;&nbsp; Deployment and Advanced Topics &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
+| Nov 18  | CI/CD |  |
 | Nov 20  | Deployment | |
 | Nov 22  | [Workshop] AI for SE | **PM3 due** |
 |  <tr><th colspan=3> Thanksgiving </th></tr> |
 | Nov 25 | 🦃 THANKSGIVING BREAK, NO CLASS | |
 | Nov 27 | 🦃 THANKSGIVING BREAK, NO CLASS | |
 | Nov 29 | 🦃 THANKSGIVING BREAK, NO CLASS | |
-| Dec 2  | [Discussion] Testing  |  |
+| Dec 2  | [Discussion] AI Writing Code  |  |
 | Dec 4  | [Discussion] Advanced Topics | |
-| Dec 6  | Retrospective / Project Workday | |
+| Dec 6  | Retrospective / Project Workday | **PM4 due** |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
-| Dec 9  | Final Project Demos | **PM4.1 due (before class)** |
+| Dec 9  | Final Project Demos | **PM5.1 due (before class)** |
 | Dec 11 | Final Project Demos | |
-| Dec 17 | Final Project Demos and Final Exam | **PM4 due** |
+| Dec 17 | Final Project Demos and Final Exam | **PM5 due** |
