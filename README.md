@@ -25,7 +25,7 @@ By the end of this course, students should be able to:
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Mon 11am-1pm
 * **GTA:** [Munshi Ali Muid](munshira@vt.edu), *Office hours:* Wed 11am-1pm
 * **GTA:** [Swanand Vaishampayan](swanandsv@vt.edu), *Office hours:* TBD
-* **UTA:** [Ryan Szilvasi](rszilvasi@vt.edu), *Office hours:* TBD
+* **UTA:** [Ryan Szilvasi](rszilvasi@vt.edu), *Office hours:* Mon/Wed 10am-11am
 * **UTA:** [Eric Wang](ericwang42@vt.edu), *Office hours:* TBD
 
 ## Schedule
