@@ -22,9 +22,9 @@ By the end of this course, students should be able to:
 
 * **Lectures:** M/W/F 1:25-2:15pm, TORG 1060
 * **Final Exam:** Tues December 17 7:45-9:45am
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Mon 11am-1pm
+* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Tu/Th 1:30-2:30pm
 * **GTA:** [Munshi Ali Muid](munshira@vt.edu), *Office hours:* Wed 11am-1pm
-* **GTA:** [Swanand Vaishampayan](swanandsv@vt.edu), *Office hours:* TBD
+* **GTA:** [Swanand Vaishampayan](swanandsv@vt.edu), *Office hours:* Mon 2:15-4:15pm
 * **UTA:** [Ryan Szilvasi](rszilvasi@vt.edu), *Office hours:* Mon/Wed 10am-11am
 * **UTA:** [Eric Wang](ericwang42@vt.edu), *Office hours:* TBD
 
