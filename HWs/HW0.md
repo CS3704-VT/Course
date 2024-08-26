@@ -20,7 +20,7 @@ This homework will help you with some setup and preparation for the course.
 
 For CS-3704 this semester, we will try out using GitHub Classrooms in addition to Canvas for learning management. After creating a GitHub account and installing git, please join our [GitHub Classroom](https://classroom.github.com/classrooms/97977962-cs3704-vt-fall24-classroom).
 
-**TODO:** To join the course GitHub Classroom, use the [invite link](https://classroom.github.com/classrooms/97977962-cs3704-vt-fall24-classroom). If you have issues signing up, please contact Dr. Brown.
+**TODO:** To join the course GitHub Classroom, use the [invite link](https://classroom.github.com/assignment-invitations/08b81a10232a2b82b13ff6e3dd344b58). If you have issues signing up, please contact Dr. Brown.
 
 **TODO:** Complete the class [GitHub Starter Course](https://github.com/orgs/CS3704-VT/discussions/1) to famliarize yourself with GitHub and its various features. You will need to complete the "Submission" items to receive full credit. There will be more in-depth practice with GitHub later in the semester.
 
