@@ -22,7 +22,7 @@ For CS-3704 this semester, we will try out using GitHub Classrooms in addition t
 
 **TODO:** To join the course GitHub Classroom, use the [invite link](https://classroom.github.com/assignment-invitations/08b81a10232a2b82b13ff6e3dd344b58). If you have issues signing up, please contact Dr. Brown.
 
-**TODO:** Complete the class [GitHub Starter Course](https://github.com/orgs/CS3704-VT/discussions/1) to famliarize yourself with GitHub and its various features. You will need to complete the "Submission" items to receive full credit. There will be more in-depth practice with GitHub later in the semester.
+**TODO:** Complete the class [GitHub Starter Course](https://github.com/orgs/CS3704-VT/discussions/1) to famliarize yourself with GitHub and its various features. You will only need to complete the first "Optional Next Steps" item to receive full credit. There will be more in-depth practice with GitHub later in the semester.
 
 ### Introductions
 
