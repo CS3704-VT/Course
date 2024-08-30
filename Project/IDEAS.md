@@ -1,6 +1,6 @@
 # Project Ideas
 
-Below are some sample ideas for possible project topics:
+You are encouraged to be creative and come up with your own idea for the course project. Below are some sample ideas for possible project topics:
 
 * TODO App: Desktop application to help developers keep track of tasks and prioritize items.
 * Standup Bot: A software bot to automate support for standup meetings between teammates.
