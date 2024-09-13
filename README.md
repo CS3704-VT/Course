@@ -38,7 +38,7 @@ By the end of this course, students should be able to:
 | Aug 26  | Introduction | [HW0](HWs/HW0.md) |
 | Aug 28  | Software Process | |
 | Aug 30  | Software Process (cont.) |  |
-| Sept 2  | 💼 LABOR DAY, NO CLASS 🌄 | HW1 |
+| Sept 2  | 💼 LABOR DAY, NO CLASS 🌄 | [HW1](https://canvas.vt.edu/courses/196188/assignments/2183264) |
 | Sept 4  | [Workshop] Technical Interviews |  |
 | Sept 6  | Project Workday  | **HW0 due**, **PM0 due** |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
