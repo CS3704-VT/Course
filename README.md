@@ -45,7 +45,7 @@ By the end of this course, students should be able to:
 | Sept 9  | 👩‍💼 CAREER FAIR, NO CLASS 👨‍💼 |  |
 | Sept 11 | Requirements and Design Overview |  |
 | Sept 13 | Requirements Elicitation | **HW1 due** |
-| Sept 16 | Requirements Analysis | (HW2)[https://canvas.vt.edu/courses/196188/assignments/2183275] |
+| Sept 16 | Requirements Analysis | [HW2](https://canvas.vt.edu/courses/196188/assignments/2183275) |
 | Sept 18 | Requirements Specification |  |
 | Sept 20 | Project Workday | |
 | Sept 23 | ⚡ Talks | **PM1.1 due (before class)** |
