@@ -5,14 +5,13 @@ This project milestone will focus on the design of your system.
 ### Process Deliverable II (3%)
 
 The submission for this deliverable will depend on the specific SE process model your team plans to use to complete the group project (as described in your project proposal). Example submissions for different processes include:
-* Prototyping: submit a prototype of your system (can be as formal/informal as needed)
-* Scrum: submit the notes (including each teammate) from your most recent scrum meeting
-* Kanban: submit a list of prioritized tasks from your task management system (and why they are prioritized)
-* Waterfall: submit supplementary planning documentation
-* Extreme programming: submit acceptance test criteria
-* Spiral: submit risk analysis
-* Code-and-fix: essay on why you used code-and-fix or up-to-date source code in your GitHub repository
-For other processes not listed above, the instructor will contact you with the exact submission requirements for this task.
+* Prototyping: A prototype/design sketch is already required for this milestone. Should be more formal/advanced than the previous milestone prototype.
+* Scrum: submit notes (include each teammate) from at least weekly scrum meetings.
+* Kanban: submit a depiction (i.e., screenshot, link, etc.) of completed and prioritized tasks in your team's Kanban board
+* Agile: submit a summary of retrospective (retrospective) and prioritized tasks for the next milestone (sprint planning)
+* Extreme programming: submit calculation of project velocity and estimate velocity for next project milestone
+* Incremental: submit prioritized requirements to factor into the next design milestone (and why they are prioritized)
+* Waterfall: submit updated SRS document with design contraints
 
 ### High-level Design (4%)
 
