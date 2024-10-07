@@ -10,8 +10,8 @@ The submission for this deliverable will depend on the specific SE process model
 * Kanban: submit a depiction (i.e., screenshot, link, etc.) of completed and prioritized tasks in your team's Kanban board
 * Agile: submit a summary of retrospective (retrospective) and prioritized tasks for the next milestone (sprint planning)
 * Extreme programming: submit calculation of project velocity and estimate velocity for next project milestone
-* Incremental: submit prioritized requirements to factor into the next design milestone (and why they are prioritized)
-* Waterfall: submit updated SRS document with design contraints
+* Incremental: submit documentation explaining how design maps to prioritized requirements
+* Waterfall: submit updated SRS document with high-level, low-level, and UI design contraints
 
 ### High-level Design (4%)
 
@@ -19,7 +19,7 @@ Describe which architectural pattern you would use to structure the system. Just
 
 ### Low-level Design (4%)
 
-Discuss which design pattern family might be helpful for implementing this project. Justify your answer, providing a code or pseudocode representation _and_ an informal class diagram.
+Discuss which design pattern family might be helpful for implementing a specific subtask for this project. Justify your answer, providing a code or pseudocode representation _and_ an informal class diagram.
 
 ### Design Sketch (4%)
 
