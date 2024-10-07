@@ -11,7 +11,7 @@ The submission for this deliverable will depend on the specific SE process model
 * Agile: submit a summary of retrospective (retrospective) and prioritized tasks for the next milestone (sprint planning)
 * Extreme programming: submit calculation of [project velocity](http://www.extremeprogramming.org/rules/velocity.html) (i.e., total function points per PM2 task completed---not the requirements specification tasks below) and estimate velocity for next project milestone
 * Incremental: submit prioritized requirements to factor into the next design milestone (and why they are prioritized)
-* Waterfall: submit a MOSCOW analysis of the derived requirement specification tasks
+* Waterfall: submit a simplified version of a software requirements specification (SRS) document [[example](https://assets.asana.biz/transform/4a6dce32-7fe3-42a9-9ff9-a22083597903/inline-project-management-software-requirement-document-template-3-2x?io=transform:fill,width:2560&format=webp)]
 
 ### Requirements Analysis (6%)
 
