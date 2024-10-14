@@ -58,7 +58,7 @@ By the end of this course, students should be able to:
 | Oct 9   | UI/UX Design  | |
 | Oct 11  | 🍂 FALL BREAK, NO CLASS 🍁 |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Oct 14  | Low-Level Design |  |
+| Oct 14  | [Guest Lecture] Low-Level Design |  |
 | Oct 16  | Low-Level Design (cont.) |  |
 | Oct 18  | Coding Metrics | **HW3 due** |
 | Oct 21  | Exam Review |  |
@@ -76,8 +76,8 @@ By the end of this course, students should be able to:
 | Nov 15  | Testing |  **HW4 due** |
 |  <tr><th colspan=3> 🧪 &nbsp;&nbsp;&nbsp; Deployment and Advanced Topics &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
 | Nov 18  | CI/CD |  |
-| Nov 20  | Deployment | |
-| Nov 22  | [Workshop] AI for SE | **PM3 due** |
+| Nov 20  | [Guest Lecture] Deployment | |
+| Nov 22  | [Guest Lecture] AI for SE | **PM3 due** |
 |  <tr><th colspan=3> Thanksgiving Break </th></tr> |
 | Nov 25 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
 | Nov 27 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
