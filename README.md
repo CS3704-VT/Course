@@ -69,12 +69,12 @@ By the end of this course, students should be able to:
 | Nov 1   | [Discussion] Design | **PM2 due** |
 | <tr><th colspan=3>  🧹 &nbsp;&nbsp;&nbsp; Implementation, Maintenance, and Testing &nbsp;&nbsp;&nbsp; 🧪  </th></tr> |
 | Nov 4   | Implementation | HW4 |
-| Nov 6   | Maintenance | |
+| Nov 6   | Testing and Maintenance | |
 | Nov 8   | [Discussion] Humans Writing Code  | |
 | Nov 11  | [Discussion] Code Reviews | |
 | Nov 13  | [Discussion] Debugging | | 
-| Nov 15  | Testing |  **HW4 due** |
-|  <tr><th colspan=3> 🧪 &nbsp;&nbsp;&nbsp; Deployment and Advanced Topics &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
+| Nov 15  | [Guest Lecture] SE Topics |  **HW4 due** |
+|  <tr><th colspan=3> 🚀 &nbsp;&nbsp;&nbsp; Deployment and Advanced Topics &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
 | Nov 18  | CI/CD |  |
 | Nov 20  | [Guest Lecture] Deployment | |
 | Nov 22  | [Guest Lecture] AI for SE | **PM3 due** |
