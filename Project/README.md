@@ -20,6 +20,9 @@ You must work in teams of four students, unless otherwise specified. Work must b
 
 All projects should be maintained on a [GitHub](https://github.com) repository. To track work, all teams must utilize a task management (i.e. GitHub projects) and/or issue tracking (i.e. GitHub issues) system.
 
+### Extra Credit
+You are not required to implement (i.e., write code for) your project. However, if you would like to receive extra credit for the project you will need to implement six requirements use cases. Please describe in detail how to run all six use cases in your project documentation, as these steps will be used to grade the extra credit portion of the project. You will also be required to demo three in class for your final presentation. 
+
 ## Deliverables
 
 You will submit your project in multiple milestones throughout the semester. More details about the specific deliverables for your project are available below:
