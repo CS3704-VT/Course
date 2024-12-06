@@ -3,10 +3,10 @@
 The exam will be an overview of all the materials covered in class except discussion presentations and guest lectures. The exam will be individual, in-person, and hand-written (i.e., no phones, laptops, computers, etc. will be allowed). You are not permitted to use your notes, lectures slides, and other course materials and resources to complete the exam. Below is a high-level study guide of potential topics to help organize your preparation efforts. The exam content will include but is not limited to the following:
 
 ### General
-* Identify concepts belonging to the Requirements and Design SDLC phases
 * Define general terms related to software engineering (SE)
-* Discuss the pros and cons of "software engineering"
-
+* Discuss the pros and cons of software engineering methods across different phases of the SDLC
+> "It’s Engineering... but not as we know it"...Software Engineering---solution to the software crisis, or part of the problem? 
+   
 ### Software Processes
 
 * Explain the advantages and disadvantages of iterative and plan-driven processes
