@@ -23,9 +23,9 @@ The final report must be no more than 10 pages (not including references) and fo
 **Rubric: [Final Report](../resources/rubrics/project_report.pdf)**
 
 ### __Retrospective__ (5%)
-At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository.
+At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository. _This must be completed by each student **individually**!_
 
-**[Retrospective Survey]:** TBD
+**Retrospective Survey:** [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeRIZ8a4OZ07oiL7FmmHpS1qfNMqECcpkZ0S0vbSezWjqRxJQ/viewform?usp=sf_link) 
 
 **Due:** December 9 at 1:25pm
 - [ ] Final presentation slides
