@@ -2,7 +2,7 @@
 
 ### __Final Presentation__ (20%)
 
-Instead of a final exam, your group must give a 10 or 12 minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, updated use cases with diagrams, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ class on December 9th. The final presentations will take place in class December 9, 11, and 17. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
+Your group must give a 10 or 12 minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, updated use cases with diagrams, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ class on December 9th. The final presentations will take place in class December 9, 11, and 17. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
   
  **Rubric: [Final Presentation](../resources/rubrics/project_final.pdf)**
 
