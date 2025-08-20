@@ -28,16 +28,15 @@ Design sketches provide a visual overview of the look and feel of your project. 
 * Creating a wireframe mockup of your project user interface in action.
 * Creating a storyboard that illustrates a primary task that a user would complete with your project.
 
-Provide a brief rationale (no more than 1 paragraph) explaining some of the design decisions for your program based on the provided sketch. Use concepts discussed in class to justify your design.
+Provide a brief rationale (no more than 1 paragraph) explaining some of the design decisions for your program based on the provided sketch, and if/how it is different from what was presented during your lightning talk. Use concepts discussed in class to justify your design.
 
 ### Project Check-In
 
-Complete [this survey](https://forms.gle/XwNUaj4xjuH6grsq8) to provide an update on your team progress on the project for this semester. Only one team member needs to complete this for the group.
+Complete [this survey](https://forms.gle/XwNUaj4xjuH6grsq8) to provide an update on your team progress on the project so far this semester. Only one team member needs to complete this for the group.
 
 
-**Due:** November 22 at 11:59pm
-- [ ] Process II deliverable
-- [ ] High-level design
-- [ ] Low-level design
+**Due:** November 7 at 11:59pm
+- [ ] Process Deliverable II
+- [ ] Design documentation (one document or separate well-labeled documents)
 - [ ] Design sketch
 - [ ] Check-In survey

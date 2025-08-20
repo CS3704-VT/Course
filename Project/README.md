@@ -29,22 +29,24 @@ You will submit your project in multiple milestones throughout the semester. Mor
 
 |  Milestone (Project Grade %) | Deliverables     |  Deadline       |
 |---------|----------------------------------|-----------------|
-| [PM0](./PM0.md) (5%)  | Meet Group            | Sept 9  |
+| [PM0](./PM0.md) (5%)  | Meet Group  | Sept 12 |
 |             | Project Questions     |         |
 |             | Initial Ideas         |         |
-| [PM1](./PM1.md) (30%) | Lightning Talk        | Sept 23 _(slides due before class)_ |
-|             | Requirements Elicitation|       |
-|             | Project Proposal      | Sept 27 |
-| [PM2] (15%) | Process I             |  Oct 4  |
+| [PM1](./PM1.md) (30%) | Requirements Elicitation | Sept 26 |
 |             | Requirements Analysis |         |
-|             | Requirements Specification  |    |
-| [PM3] (15%) | Process II            |  Nov 22 |
+|             | Requirements Specification |    |
+|             | Project Proposal      |         |
+| [PM2] (15%) | Lightning Talk        |  Oct 14 _(before class)_  |
+|             | Process Deliverable I |  Oct 17 |
+| [PM3] (15%) | Process Deliverable II|  Oct 31 |
 |             | High-Level Design     |         |
 |             | Low-Level Design      |         |
-|             | UI Design             |         |
-| [PM4] (35%) | Black Box Test Plan   |  Dec 6  |
-| [PM5] (35%) | Final Presentation    |  Dec 9 _(slides due before class)_ |
-|             | Final Report          |  Dec 17 |
-|             | Retrospective         |         |
+|             | Design Sketch         |         |
+|             | Check-in Survey       |         |
+| [PM4] (35%) | Process Deliverable III | Nov 14|
+|             | Black Box Test Plan   |         |
+| [PM5] (35%) | Final Presentation    |  Dec 9 _(before class)_ |
+|             | Final Report          |  Dec 12 |
+|             | Retrospective         |  Dec 17 |
 
 __Late Policy:__ All milestones are due at 11:59pm on the date specified unless otherwise noted. Late work will be subjected to the same penalty as the course late submission policy (-25% per day).

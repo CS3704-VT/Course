@@ -19,6 +19,6 @@ A test plan is a detailed document that outlines test cases for a given software
 * If you are not implementing your project, you may leave the Actual Results column blank (but it must be present in the plan to receive full credit). 
 * If you are implementing your project, you may include the actual results if the test case is implemented or still keep the column blank.
 
-**Due:** December 6 at 11:59pm
+**Due:** November 21 at 11:59pm
 - [ ] Project Deliverable III
 - [ ] Black box test plan
