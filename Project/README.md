@@ -14,7 +14,7 @@ The only requirement for the project is that it fit into the high-level goal, su
 
 ### Teams
 
-You must work in teams of four students, unless otherwise specified. Work must be equally divided among the team members. Groups will be assigned based on students' provided preferences for teammates.
+You must work in teams of four to six students, unless otherwise specified. Work must be equally divided among the team members. Groups will be assigned based on students' provided preferences for teammates and randomly.
 
 ### Technology
 
