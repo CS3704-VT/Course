@@ -35,7 +35,7 @@ By the end of this course, students should be able to:
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Aug 26  | Introduction / Software Development Lifecycle | [HW0](https://canvas.vt.edu/courses/215812/assignments/2481865) (due 9/5); [PM0](https://canvas.vt.edu/courses/215812/assignments/2481868) (due 9/12) |
-| Aug 28  | Software Development Lifecycle (cont.) | |
+| Aug 28  | Software Engineering Processes | |
 | <tr><th colspan=3> 📜 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
 | Sept 2  | Requirements Elicitation |  |
 | Sept 4  | Requirements Analysis and Specification |  |
