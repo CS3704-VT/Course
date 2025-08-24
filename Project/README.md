@@ -10,7 +10,7 @@ The goal of this project is to practice software engineering processes, tools, a
 
 ## Guidelines
 
-The only requirement for the project is that it fit into the high-level goal, supporting software engineers and software engineering work. Otherwise, you are given the freedom to satisfy this goal however you wish. You must work with a team and complete various deliverables throughout the semester. Try to be creative when proposing project ideas.
+Your project must aim to solve a real-world problem. You are free to satisfy this goal however you wish. You must work with a team and complete various deliverables throughout the semester. Try to be creative when proposing project ideas.
 
 ### Teams
 
@@ -18,10 +18,7 @@ You must work in teams of four to six students, unless otherwise specified. Work
 
 ### Technology
 
-All projects should be maintained on a [GitHub](https://github.com) repository. To track work, all teams must utilize a task management (i.e. GitHub projects) and/or issue tracking (i.e. GitHub issues) system.
-
-### Extra Credit
-You are not required to implement (i.e., write code for) your project. However, if you would like to receive extra credit for the project you will need to implement six requirements use cases. Please describe in detail how to run all six use cases in your project documentation, as these steps will be used to grade the extra credit portion of the project. You will also be required to demo three in class for your final presentation. 
+All projects should be maintained on a [GitHub](https://github.com) repository. To track work, teams should utilize task management (i.e. GitHub projects) and/or issue tracking (i.e. GitHub issues) on GitHub.
 
 ## Deliverables
 
@@ -32,21 +29,29 @@ You will submit your project in multiple milestones throughout the semester. Mor
 | [PM0](./PM0.md) (5%)  | Meet Group  | Sept 12 |
 |             | Project Questions     |         |
 |             | Initial Ideas         |         |
-| [PM1](./PM1.md) (30%) | Requirements Elicitation | Sept 26 |
+| [PM1](./PM1.md) (16%) | Requirements Elicitation | Sept 26 |
 |             | Requirements Analysis |         |
 |             | Requirements Specification |    |
 |             | Project Proposal      |         |
-| [PM2] (15%) | Lightning Talk        |  Oct 14 _(before class)_  |
-|             | Process Deliverable I |  Oct 17 |
-| [PM3] (15%) | Process Deliverable II|  Oct 31 |
+|             | Process Deliverable I |         |
+| [PM2](./PM2.md) (14%) | Lightning Talk        |  Oct 14 _(before class)_  |
+|             | Process Deliverable II|  Oct 17 |
+| [PM3](./PM3.md) (15%) | Process Deliverable II|  Oct 31 |
 |             | High-Level Design     |         |
 |             | Low-Level Design      |         |
 |             | Design Sketch         |         |
+|             | Process Deliverable III |       |
+| [PM4](./PM4.md) (15%) | Process Deliverable III| Nov 14 |
+|             | Implementation        |         |
 |             | Check-in Survey       |         |
-| [PM4] (35%) | Process Deliverable III | Nov 14|
 |             | Black Box Test Plan   |         |
-| [PM5] (35%) | Final Presentation    |  Dec 9 _(before class)_ |
-|             | Final Report          |  Dec 12 |
-|             | Retrospective         |  Dec 17 |
+|             | Process Deliverable IV|         |
+| [PM5](./PM5.md) (15%) | Process Deliverable IV|  Dec 5  |
+|             | Code Review           |         |
+|             | Testing               |         |
+|             | Process Deliverable V |         |
+| [PM5](./PM6.md) (20%) | Final Presentation    |  Dec 9 _(before class)_ |
+|             | Final Report          |  Dec 17 |
+|             | Retrospective         |         |
 
 __Late Policy:__ All milestones are due at 11:59pm on the date specified unless otherwise noted. Late work will be subjected to the same penalty as the course late submission policy (-25% per day).
