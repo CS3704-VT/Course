@@ -22,10 +22,10 @@ By the end of this course, students should be able to:
 
 * **Lectures:** Tu/Th 9:30-10:45am, SURGE 104D
 * **Final Exam:** Wed December 17, 10:05am-12:05pm, SURGE 104D
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Tu/Th 11:00am-12:00pm; Gilbert 4105 or zoom
-* **GTA:** Huayu Liang [huayu98@vt.edu], *Office hours:* Tu 2:00-4:00pm; TBD
-* **GTA:** Aninditaa Chauhan [aninditaach@vt.edu], *Office hours: TBD*
-* **UTA:** Tanay Khopey [khopeytanay@vt.edu], *Office hours: TBD*
+* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Tu/Th 11:00am-12:00pm; Gilbert 4105 or [Zoom](https://virginiatech.zoom.us/my/dcbrown)
+* **GTA:** Huayu Liang [huayu98@vt.edu], *Office hours:* Tu 2:00-4:00pm; [Zoom](https://virginiatech.zoom.us/j/3373387345)
+* **GTA:** Aninditaa Chauhan [aninditaach@vt.edu], *Office hours:* Mon 3-5pm; TORG 1120
+* **UTA:** Tanay Khopey [khopeytanay@vt.edu], *Office hours:* Mon/Wed/Fri 6-8pm; [Zoom](https://virginiatech.zoom.us/s/8255587692)
 
 ## Schedule 
 
