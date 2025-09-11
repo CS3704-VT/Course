@@ -3,7 +3,7 @@
 This project milestone will focus on developing the requirements of your system.
 
 
-#### __Requirements Elicitation (3%)__
+### __Requirements Elicitation (3%)__
 
 Requirements Elicitation is the process of discovering requirements for your system. There are numerous ways to elicit requirements for software-products. We will discuss several examples in class. You must select one requirements elicitation technique and collect insights on requirements for your project idea from at least 10 other individuals outside of your group, ideally people who would be target users of your product. In your lightning talk for PM2, you must present the requirements elicitation technique you used and a brief overview of the results. Documentation of your requirements elicitation (i.e., survey questions and responses, interview questions and responses, etc.) must be submitted with PM1.
 
