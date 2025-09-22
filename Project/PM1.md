@@ -39,7 +39,7 @@ Your project team must also submit a project proposal document. The proposal mus
 
 * You will receive feedback from the teaching staff on the proposal and requirements documentation to approve of your course project for the semester.
 
-**Rubric: [TBD]()**
+**Rubric: [TBD](https://docs.google.com/spreadsheets/d/1VMVzrpiIOmrvO2pFgUCEIwamtNEocYbRYs1dpVHlPco/edit?gid=0#gid=0)**
 
 ### Process Deliverable (1%)
 
