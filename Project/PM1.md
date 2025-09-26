@@ -32,7 +32,7 @@ Your project team must also submit a project proposal document. The proposal mus
 * a relevant _title_ and all group members listed as _authors_;
 * an _abstract_ briefly describing the problem and proposed solution;
 * an _introduction_ that further explains the problem and motivates the need for the proposed solution;
-* _related work_ presenting relevant software engineering tools or research studies; 
+* _related work_ presenting relevant software or research studies; 
 * a brief description of the _software engineering process_ your team plans to use for the project and why you selected this process;
 * a section providing an overview of the requirements elicitation, analysis, and specification activities above;
 * and _references_ to any appropriate citations, if applicable. 
