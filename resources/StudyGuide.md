@@ -1,5 +1,5 @@
 # Exam Study Guide
-The exam will be an overview of all the materials covered in class for the semester so far, focusing on software engineering processes, and requirements and design artifacts and practices. The exam will be a one hour timed Canvas Quiz that is open-book. You are free to use your notes, lectures slides, and other course materials and resources to complete the exam. You may **NOT** work with another person on this exam or use AI tools. Below is a general study guide to help organize your preparation efforts. The exam content will include but is not limited to the following:
+The exam will be an overview of all the materials covered in class for the semester so far, focusing on software engineering processes, and requirements and design artifacts and practices. The exam will be a one hour timed Canvas Quiz that is open-book. You are free to use your notes, lectures slides, and other course materials and resources to complete the exam. You may **NOT** work with another person on this exam or use AI tools. Below is a general study guide to help organize your notes and preparation efforts. The exam content will include but is not limited to the following:
 
 ### Software Processes
 * Explain the advantages and disadvantages of iterative and plan-driven processes
@@ -20,7 +20,7 @@ The exam will be an overview of all the materials covered in class for the semes
 ### Design
 * Understand the difference between high-level/architectural, low-level, and UI design
 * Apply architectural design patterns: (pipe-and-filter, event-based, layered, etc.)
-* Understand different software design concepts (i.e., abstraction, modularity, S.O.L.I.D., etc.)
+* Understand and discuss different software design concepts (i.e., abstraction, modularity, S.O.L.I.D., etc.)
 * Understand the differences between low-level design pattern families (creational, structural, and behavioral)
 * Describe and apply UI design processes: (i.e., prototyping, wireframing, task flow analysis, storyboarding, etc.)
 * Explain the advantages and disadvantages of using design patterns
