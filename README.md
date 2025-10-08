@@ -53,7 +53,7 @@ By the end of this course, students should be able to:
 | Oct 14  | ⚡ Talks | HW3 (due 10/24) |
 | Oct 16  | ⚡ Talks |  |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; SE Fundamentals &nbsp;&nbsp;&nbsp; 📝  </th></tr> |
-| Oct 21  | Code Quality | [PM3](./Project/PM3.md) (due 10/31); HW4 (due 11/7)  |
+| Oct 21  | Implementation and Code Quality | [PM3](./Project/PM3.md) (due 10/31); HW4 (due 11/7)  |
 | Oct 23  | [Guest Lecture] |  |
 | Oct 28  | Version Control |  |
 | Oct 30  | AI Writing Code |  |
