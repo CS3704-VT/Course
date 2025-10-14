@@ -50,7 +50,7 @@ By the end of this course, students should be able to:
 | Oct 2   | [Guest Lecture] (dcbrown travel) | |
 | Oct 7   | Exam Review (dcbrown travel)  | |
 | Oct 9   | 💯 Exam 💯 (dcbrown travel) | |
-| Oct 14  | ⚡ Talks | HW3 (due 10/24) |
+| Oct 14  | ⚡ Talks | [HW3](https://canvas.vt.edu/courses/215812/assignments/2481884) (due 10/24) |
 | Oct 16  | ⚡ Talks |  |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; SE Fundamentals &nbsp;&nbsp;&nbsp; 📝  </th></tr> |
 | Oct 21  | Implementation and Code Quality | [PM3](./Project/PM3.md) (due 10/31); HW4 (due 11/7)  |
