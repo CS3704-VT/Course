@@ -36,8 +36,9 @@ The submission for this deliverable will depend on the specific SE process model
 
 ### Project Check-In (1%)
 
-Complete [this survey](https://forms.gle/XwNUaj4xjuH6grsq8) to provide an update on your team progress on the project so far this semester. Only one team member needs to complete this for the group.
+Complete [this survey](https://forms.gle/fbq42BjdDuSdKYXd8) to provide an update on your team progress on the project so far this semester. Only one team member needs to complete this for the group.
 
+Optional: Please complete [this survey](https://forms.gle/F8SPwJv4EY1WuQTV6) to provide an individual update on your team's progress separate from the group survey. You do not need to complete this for PM3.
 
 **Due:** October 31 at 11:59pm
 - [ ] Design documentation (one document or separate well-labeled documents)
