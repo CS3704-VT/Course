@@ -34,6 +34,6 @@ The submission for this deliverable will depend on the specific SE process model
 
 
 **Due:** November 14 at 11:59pm
-- [ ] Implementation (GitHub repository with code)
+- [ ] Implementation (please provide access to your GitHub repository with code)
 - [ ] Black box test plan
 - [ ] Project Deliverable IV
