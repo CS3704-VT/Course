@@ -42,28 +42,28 @@ By the end of this course, students should be able to:
 | Sept 9  | Project Management | [HW1](https://canvas.vt.edu/courses/215812/assignments/2481867) (due 9/19) |
 | Sept 11 | Project Workday |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Sept 16 | Software Design Principles | PM1 (due 9/26) |
+| Sept 16 | Software Design Principles | [PM1](./Project/PM1.md) (due 9/26) |
 | Sept 18 | Software Architecture |  |
-| Sept 23 | Low-Level Design | HW2 (due 10/3) |
+| Sept 23 | Low-Level Design | [HW2](https://canvas.vt.edu/courses/215812/assignments/2481870) (due 10/3) |
 | Sept 25 | UI Design | |
-| Sept 30 | Project Workday (dcbrown travel) | PM2 (due 10/14; 10/17) |
+| Sept 30 | Project Workday (dcbrown travel) | [PM2](./Project/PM2.md) (due 10/14; 10/17) |
 | Oct 2   | [Guest Lecture] (dcbrown travel) | |
 | Oct 7   | Exam Review (dcbrown travel)  | |
 | Oct 9   | 💯 Exam 💯 (dcbrown travel) | |
-| Oct 14  | ⚡ Talks | HW3 (due 10/24) |
+| Oct 14  | ⚡ Talks | [HW3](https://canvas.vt.edu/courses/215812/assignments/2481884) (due 10/24) |
 | Oct 16  | ⚡ Talks |  |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; SE Fundamentals &nbsp;&nbsp;&nbsp; 📝  </th></tr> |
-| Oct 21  | Code Quality | PM3 (due 10/31); HW4 (due 11/7)  |
+| Oct 21  | Implementation and Code Quality | [PM3](./Project/PM3.md) (due 10/31); HW4 (due 11/7)  |
 | Oct 23  | [Guest Lecture] |  |
 | Oct 28  | Version Control |  |
 | Oct 30  | AI Writing Code |  |
 | <tr><th colspan=3>  🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪  </th></tr> |
-| Nov 4   | Maintenance | PM4 (due 11/14); HW5 (due 11/21) |
+| Nov 4   | Maintenance | [PM4](./Project/PM4.md) (due 11/14); HW5 (due 11/21) |
 | Nov 6   | Testing | |
 | Nov 11  | [Guest Lecture] | |
 | Nov 13  | Project Workday | | 
 |  <tr><th colspan=3> 🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; 💻 </th></tr> |
-| Nov 18  | CI/CD and Deployment | PM5 (due 12/5); HW6 (due 12/5)  |
+| Nov 18  | CI/CD and Deployment | [PM5](./Project/PM5.md) (due 12/5); HW6 (due 12/5)  |
 | Nov 20  | [Guest Lecture] | |
 |  <tr><th colspan=3> Thanksgiving Break </th></tr> |
 | Nov 25 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
@@ -71,7 +71,7 @@ By the end of this course, students should be able to:
 |  <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Emerging Topics &nbsp;&nbsp;&nbsp; 🔍 </th></tr> |
 | Dec 2  | Advanced Topic  |  |
 | Dec 4  | Advanced Topic | |
-| Dec 6  | Retrospective / Project Workday | PM6 (12/9; 12/17) |
+| Dec 6  | Retrospective / Project Workday | [PM6](./Project/PM6.md) (12/9; 12/17) |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
 | Dec 9  | Project Demos | |
 | Dec 17 | Project Demos and Final Exam |  |

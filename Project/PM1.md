@@ -3,7 +3,7 @@
 This project milestone will focus on developing the requirements of your system.
 
 
-#### __Requirements Elicitation (3%)__
+### __Requirements Elicitation (3%)__
 
 Requirements Elicitation is the process of discovering requirements for your system. There are numerous ways to elicit requirements for software-products. We will discuss several examples in class. You must select one requirements elicitation technique and collect insights on requirements for your project idea from at least 10 other individuals outside of your group, ideally people who would be target users of your product. In your lightning talk for PM2, you must present the requirements elicitation technique you used and a brief overview of the results. Documentation of your requirements elicitation (i.e., survey questions and responses, interview questions and responses, etc.) must be submitted with PM1.
 
@@ -32,14 +32,14 @@ Your project team must also submit a project proposal document. The proposal mus
 * a relevant _title_ and all group members listed as _authors_;
 * an _abstract_ briefly describing the problem and proposed solution;
 * an _introduction_ that further explains the problem and motivates the need for the proposed solution;
-* _related work_ presenting relevant software engineering tools or research studies; 
+* _related work_ presenting relevant software or research studies; 
 * a brief description of the _software engineering process_ your team plans to use for the project and why you selected this process;
 * a section providing an overview of the requirements elicitation, analysis, and specification activities above;
 * and _references_ to any appropriate citations, if applicable. 
 
 * You will receive feedback from the teaching staff on the proposal and requirements documentation to approve of your course project for the semester.
 
-**Rubric: [TBD]()**
+**Rubric: [Project Proposal Rubric](https://docs.google.com/spreadsheets/d/1VMVzrpiIOmrvO2pFgUCEIwamtNEocYbRYs1dpVHlPco/edit?gid=0#gid=0)**
 
 ### Process Deliverable (1%)
 
@@ -52,7 +52,7 @@ The submission for this deliverable will depend on the specific SE process model
 | Kanban | a Kanban board (i.e., screenshot, link, etc.) with backlog of prioritized tasks for PM2 |
 | XP     | planning poker outcomes to estimate effort for prioritized PM2 tasks |
 | Spiral | identify PM2 objectives, anticipated risks, and how you plan to mitigate them |
-| Waterfall: submit a simplified version of a software requirements specification (SRS) document for your system [[example](https://assets.asana.biz/transform/4a6dce32-7fe3-42a9-9ff9-a22083597903/inline-project-management-software-requirement-document-template-3-2x?io=transform:fill,width:2560&format=webp)] |
+| Waterfall | submit a simplified version of a software requirements specification (SRS) document for your system [[example](https://assets.asana.biz/transform/4a6dce32-7fe3-42a9-9ff9-a22083597903/inline-project-management-software-requirement-document-template-3-2x?io=transform:fill,width:2560&format=webp)] |
 
 * If your process is not listed below, please contact Dr. Brown for an equivalent submission.
 

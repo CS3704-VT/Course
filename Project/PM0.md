@@ -11,5 +11,7 @@ Please complete this [survey](https://canvas.vt.edu/courses/196188/quizzes/54885
 4. Based on the project details provided in class and on the course GitHub repository, what questions do you have about the project this semester?
 
 5. Provide your preliminary project idea (or set of ideas). This is not a commitment to a project.
+  
+6. Come up with a team contract with your group members. This document should outline working style, meeting and communication expectations, and a team-specific AI policy (that does not overrule the class policy). By submitting this document, all teammates agree to adhere to the contents for the duration of the course project.
 
  **Due:** September 12 at 11:59pm
