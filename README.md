@@ -58,7 +58,7 @@ By the end of this course, students should be able to:
 | Oct 28  | Version Control |  |
 | Oct 30  | AI Writing Code |  |
 | <tr><th colspan=3>  🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪  </th></tr> |
-| Nov 4   | Maintenance | [PM4](./Project/PM4.md) (due 11/14); HW5 (due 11/21) |
+| Nov 4   | Maintenance | [PM4](./Project/PM4.md) (due 11/14); [HW5](https://canvas.vt.edu/courses/215812/assignments/2501372) (due 11/21) |
 | Nov 6   | Testing | |
 | Nov 11  | [Guest Lecture] | |
 | Nov 13  | Project Workday | | 
