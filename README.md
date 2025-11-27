@@ -69,9 +69,8 @@ By the end of this course, students should be able to:
 | Nov 25 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
 | Nov 27 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
 |  <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Emerging Topics &nbsp;&nbsp;&nbsp; 🔍 </th></tr> |
-| Dec 2  | Advanced Topic  |  |
-| Dec 4  | Advanced Topic | |
-| Dec 6  | Retrospective / Project Workday | [PM6](./Project/PM6.md) (12/9; 12/17) |
+| Dec 2  | How to Train Your LLMs / Final Exam Review  | [PM6](./Project/PM6.md) (12/9; 12/17) |
+| Dec 4  | Retrospective / Project Workday | |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
 | Dec 9  | Project Demos | |
 | Dec 17 | Project Demos and Final Exam |  |
