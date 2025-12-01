@@ -7,7 +7,7 @@ This project milestone will focus on the final submissions of your project.
 
 Your group must give an _n_ minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ class on December 9th. The final presentations will take place in class December 9 and 17. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
   
-**Rubric: [TBD]()**
+**Rubric: [Final Presentation](https://docs.google.com/spreadsheets/d/1u-bwJfrr8ZrimLgt8vkXo3vLHb-Pb441wb3ollf3FUs/edit?gid=0#gid=0)**
 
 ### __Final Report__ (9%)
 The final report must be no more than 10 pages (not including references) and follow the same ICSE formatting guidelines as the Proposal Document. The final project report must contain the following:
@@ -24,7 +24,7 @@ The final report must be no more than 10 pages (not including references) and fo
     *  a _conclusion_ revisiting the problem statement and project work completed;
     *  and _references_ (required to include).
     
-**Rubric: [TBD]()**
+**Rubric: [Final Report](https://docs.google.com/spreadsheets/d/1wZLKoIah69_Le9Nne_IKsjwyxzTlAylbHdghl3neKLc/edit?gid=0#gid=0)**
 
 ### __Retrospective__ (2%)
 At the conclusion of the project, you will asked to complete a brief group and individual retrospective about the team project. This will allow you to reflect on what went well, what didn't go well, and what you learned in addition to determining your contributions and the effort of your teammates towards the project. The overall grade will be impacted by reported group dynamics that cannot be determined through analyzing contributions to your repository. _This must be completed by each student **individually**!_
