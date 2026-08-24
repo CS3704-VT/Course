@@ -2,12 +2,15 @@
 
 This project milestone will focus on the final submissions of your Project 1.
 
+## **PM1.2.1** 
 
 ### __Lightning Talk__
 
 Each project must give an **_n_** minute oral presentation. This should be considered a pitch as if you were demoing your project to investors. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, requirements elicitation results (i.e., what your market base says), a demo your project, a discussion on limitations and future work, etc. All project team members must participate in the final demo. The slides for your presentation are due _before_ class on March 3rd. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
   
 **Rubric: [Project 1 Demo](https://docs.google.com/spreadsheets/d/1hhcaJ_S4laBO8x4BnHjn-jp597eAvrk1qe0yfNFPnXs/edit?usp=sharing)**
+
+## **PM1.2.2** 
 
 ### __Final Report__
 
@@ -57,10 +60,10 @@ Other checks:
 
 ### Deadline
 
-**Due:** September 24 at **_9:30am_**
+**PM1.2.1 Due:** September 24 at **_9:30am_**
 - [ ] Final presentation slides
 
-**Due:** September 25 at 11:59pm
+**PM1.2.2 Due:** October 5 at 11:59pm
 - [ ] Retrospective survey (submit individually)
 - [ ] Final project report
 - [ ] Repository
