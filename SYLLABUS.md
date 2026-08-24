@@ -21,7 +21,8 @@
 
 ### Office Hours
 You may attend any of the instructor and/or TA office hours. All TA office hours will be hosted in 1120 Torgerson, unless otherwise specified. The instructor is also available by appointment (please email).
-Communication
+
+### Communication
 Students may contact the teaching staff via email. Expect a response within 1-2 days. If a response is not provided after that time, please send a follow-up email.
 
 ## COURSE OVERVIEW
@@ -92,59 +93,13 @@ Virginia Tech provides technology requirements and recommendations for computer 
 | Assignment | Percentage |
 |------------|------------|
 | Projects | 36% |
-| Exams | 35% |
+| Exams | 30% |
 | Homework | 24% |
 | Ut Prosim | 5% |
+| Attendance/Participation | 5% |
 
 ### Attendance/Participation
-Attendance in class is strongly encouraged. Students will be provided with the option to decide whether they would like attendance to count towards their grade. If you opt out of attendance, you will be responsible for completing the course work (but not in-class assignments). Your decision to opt out of attendance will be indicated in HW0. Once you've made your choice, you can not change it again until the middle of the semester. If you opt-in to counting attendance then you will have an attendance grade that replaces the 5% of the midterm and final exams, or 10% of your overall grade. Attendance is not counted for classes designated as project workdays, although encouraged to facilitate working with your team.
-
-All students who opt-in will have two attendance drops per half semester depending on the course mode. This will provide a cushion in the event of illness or emergency and thus even excused absences will not be monitored or approved. Once you opt-in, attendance will be taken in each class, this is to ensure student participation in a collaborative setting. The instructor will make efforts for class time to be highly engaging—consisting of some lecturing and classwork assignments. The instructor will not monitor excused absences, except for extenuating circumstances.  Instead, everyone has grade drops and allowed days missed from attendance.  If you miss more than two weeks of school at a time you should communicate with the Dean of Students office and notify your instructor with the proper documentation.
-
-Grade breakdowns for each attendance option are provided below:
-
-**_No Attendance_**
-
-| Assignment | Percentage |
-|------------|------------|
-| Projects | 36% |
-| Midterm Exam | 20% |
-| Final Exam | 15% |
-| Homework | 24% |
-| Ut Prosim | 5% |
-
-**_Opt-In_**
-
-| Assignment | Percentage |
-|------------|------------|
-| Projects | 36% |
-| Midterm Exam | 20% |
-| Final Exam | 5% |
-| Homework | 24% |
-| Ut Prosim | 5% |
-| Attendance & Participation | 10% |
-
-**_Opt-In First Half_**
-
-| Assignment | Percentage |
-|------------|------------|
-| Projects | 36% |
-| Midterm Exam | 20% |
-| Final Exam | 10% |
-| Homework | 24% |
-| Ut Prosim | 5% |
-| Attendance & Participation | 5% |
-
-**_Opt-In Second Half_**
-
-| Assignment | Percentage |
-|------------|------------|
-| Projects | 36% |
-| Midterm Exam | 25% |
-| Final Exam | 5% |
-| Homework | 24% |
-| Ut Prosim | 5% |
-| Attendance & Participation | 5% |
+Attendance in class is strongly encouraged. A portion of your grade is designated for in-class participation in the course. All students will have two attendance drops per half semester to provide a cushion in the event of illness or emergency. Excused absences will not be monitored or approved unless there is an extenuating circumstance. In-class activities do not need to be made up if you miss a class, however you are responsible for learning the content. If you miss more than two weeks of school at a time, you should communicate with the Dean of Students office and notify your instructor with the proper documentation.
 
 
 ### Ut Prosim
@@ -181,7 +136,7 @@ Students are expected to be respectful of classmates and teaching staff (see [Ne
 Please inform your instructor as soon as possible of anything that may prevent you from completing coursework and exams as well as any other concerns that you may have.
 
 ### Pandemic and Coronavirus
-Students are expected to attend class and participate in all course activities, although have the option to opt out of required attendance. Mask requirements in class for students and teaching staff will follow the university policy. Attendance is strongly encouraged—however, if you feel sick, test positive for COVID-19, or have been exposed to someone who tested positive: DO NOT COME TO CLASS! Contact the instructor to make-up any missed work.
+Students are expected to attend class and participate in all course activities. Mask requirements in class for students and teaching staff will follow the university policy. Attendance is strongly encouraged—however, if you feel sick, test positive for COVID-19, or have been exposed to someone who tested positive: DO NOT COME TO CLASS! Contact the instructor to make-up any missed work.
 
 ### AI Policy
 Students are permitted to use generative AI tools for certain assignments in this course. AI usage is not enforced, please contact the instructor if you prefer not to use them for a substitute assignment. The primary AI tools required for this class will be [Opencode](https://opencode.ai/) for an agentic harness leveraging the models provided by [Virginia Tech's Advanced Research in Computing](https://www.docs.arc.vt.edu/ai/040_coding_agents.html). More details about the class AI policy are available at [AI_POLICY.md](./AI_POLICY.md)
