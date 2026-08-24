@@ -15,7 +15,7 @@
 | Name | Role | Email | Office Hours |
 |------|------|-------|--------------|
 | Dr. Chris Brown | Instructor | dcbrown@vt.edu | Tu/Th 11am-12pm, 4105 Gilbert or [Zoom](https://virginiatech.zoom.us/my/dcbrown) |
-| Minyhuk Ko | GTA | minhyukko@vt.edu | TBD |
+| Minyhuk Ko | GTA | minhyukko@vt.edu | Mon 9-11am |
 | Jai Sundaram | UTA | jsundaram@vt.edu | TBD |
 
 
@@ -84,7 +84,8 @@ Virginia Tech provides technology requirements and recommendations for computer 
 #### Software
 * Git and GitHub
 * An Integrated Development Environment (IDE) or Text editor
-* Additional software requirements needed for this course will be provided/installed in HW0.
+* [Mattermost](https://meet.cs.vt.edu/signup_user_complete/?id=srrb9ndtmf8ddkqyx96nsjthwr)
+* Additional software requirements will be provided/installed in HW0.
 
 ## GRADING
 
@@ -99,11 +100,11 @@ Virginia Tech provides technology requirements and recommendations for computer 
 | Attendance/Participation | 5% |
 
 ### Attendance/Participation
-Attendance in class is strongly encouraged. A portion of your grade is designated for in-class participation in the course. All students will have two attendance drops per half semester to provide a cushion in the event of illness or emergency. Excused absences will not be monitored or approved unless there is an extenuating circumstance. In-class activities do not need to be made up if you miss a class, however you are responsible for learning the content. If you miss more than two weeks of school at a time, you should communicate with the Dean of Students office and notify your instructor with the proper documentation.
+Attendance in class is strongly encouraged. A portion of your grade is designated for in-class participation in the course. All students will have two attendance drops to provide a cushion in the event of illness or emergency. Excused absences will not be monitored or approved unless there is an extenuating circumstance. In-class activities do not need to be made up if you miss a class, however you are responsible for learning the content. If you miss more than two weeks of school at a time, you should communicate with the Dean of Students office and notify your instructor with the proper documentation.
 
 
 ### Ut Prosim
-The university motto is Ut Prosim, which means _"That I May Serve"_. In this spirit, we aim to also serve the software engineering and computing community at Virginia Tech as stakeholders in the Computer Science department and the University. To embody this, part of your course grade will be determined by service to the department. Students must complete five service activities to support ongoing work in the department or university. Examples of activities may include participating in a research study, attending a department seminar, or other approved event on campus. Applicable events will also be communicated to students on the Ut Prosim GitHub Discussion. To report a completed activity for Ut Prosim, please fill out this form for each service activity. You will be contacted if a reported activity does not qualify.
+The university motto is Ut Prosim, which means _"That I May Serve"_. In this spirit, we aim to also serve the software engineering and computing community at Virginia Tech as stakeholders in the Computer Science department and the University. To embody this, part of your course grade will be determined by service to the department. Students must complete **_five_** service activities to support ongoing work in the department or university. Examples of activities may include participating in a research study, attending a department seminar, or other approved event on campus. Applicable events will also be communicated to students on the Ut Prosim GitHub Discussion. To report a completed activity for Ut Prosim, please fill out [this form](https://forms.gle/1nLxasXGkw8d6hMH9) _for each_ service activity. You will be contacted if a reported activity does not qualify.
 
 
 ### Grading Scale
