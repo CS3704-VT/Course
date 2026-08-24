@@ -33,7 +33,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 25  | Introduction + Human Aspects of SE + Software Development Lifecycle |  |
+| Aug 25  | Introduction + Software Development Lifecycle |  |
 | Aug 27  | SE Processes + Project Management | |
 | Sept 1  | Project Workday |  |
 | Sept 3  | [Workshop] SE Basics  | PM1.0, HW0 due 9/4 |
@@ -51,7 +51,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹  </th></tr> |
 | Oct 6   | [Guest Lecture] Greg Wilson |  HW2 due 10/7 |
 | Oct 8   | Project Workday | PM2.0 due 10/9  |
-| Oct 13  | Implementation and Maintenance |  |
+| Oct 13  | Implementation + Maintenance |  |
 | Oct 15  | [Guest Lecture] Matt McHugh |  |
 | Oct 20  | [Workshop] AI Writing Code  |  |
 | Oct 22  | [Guest Lecture] Ben Nelson  | PM2.1 due 10/23 |
@@ -63,13 +63,13 @@ By the end of this course, students should be able to:
 | Nov 10  | [Workshop] Testing and Debugging | |
 |  <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
 | Nov 12  | [Guest Lecture] Bilal Aziz |  | 
-| Nov 17  | [Guest Lecture] David Bates |   |
+| Nov 17  | Human Aspects of Software Engineering |   |
 | Nov 19  | Evidence-Based Software Engineering | PM2.3 due 11/20 |
 |  <tr><th colspan=3> Thanksgiving Break </th></tr> |
 | Nov 24 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
 | Nov 26 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
 |  <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Emerging Topics &nbsp;&nbsp;&nbsp; 🔍 </th></tr> |
-| Dec 1  | Advanced Topic  |  |
+| Dec 1  | [Guest Lecture] David Bates  |  |
 | Dec 3  | Advanced Topic | HW4 due 12/4 |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🏁  </th></tr> |
 | Dec 8  | Retrospective / Project Workday | PM2.4 due 12/9 |
