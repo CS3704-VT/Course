@@ -35,8 +35,8 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
 | Aug 25  | Introduction + Software Development Lifecycle |  |
 | Aug 27  | SE Processes + Project Management | |
-| Sept 1  | Project Workday |  |
-| Sept 3  | [Workshop] SE Basics  | PM1.0, HW0 due 9/4 |
+| Sept 1  | [Workshop] SE Basics |  |
+| Sept 3  |  Project Workday | PM1.0, HW0 due 9/4 |
 | <tr><th colspan=3> 📜 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
 | Sept 8  | Requirements Elicitation |  |
 | Sept 10 | Requirements Analysis and Specification |  HW1 due 9/11 |
