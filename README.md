@@ -36,18 +36,18 @@ By the end of this course, students should be able to:
 | Aug 25  | Introduction + Software Development Lifecycle |  |
 | Aug 27  | SE Processes + Project Management | |
 | Sept 1  | [Workshop] SE Basics |  |
-| Sept 3  |  Project Workday | [PM1.0](Projects/Project1/PM1.0.md), [HW0](HWs/HW0.md) due 9/4 |
+| Sept 3  |  Project Workday | [PM1.0](./Projects/Project1/PM1.0.md), [HW0](./HWs/HW0.md) due 9/4 |
 | <tr><th colspan=3> 📜 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
 | Sept 8  | Requirements Elicitation |  |
 | Sept 10 | Requirements Analysis and Specification |  HW1 due 9/11 |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Sept 15 | Software Design and Architecture | PM1.1 due 9/16 |
+| Sept 15 | Software Design and Architecture | [PM1.1](./Projects/Project1/PM1.1.md) due 9/16 |
 | Sept 17 | UI Design |  |
 | <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Midterm &nbsp;&nbsp;&nbsp; 🎬  </th></tr> |
 | Sept 22 | Project Workday |  |
-| Sept 24 | Project 1 Demos | PM1.2.1 due 9/24 |
+| Sept 24 | Project 1 Demos | [PM1.2.1](./Projects/Project1/PM1.2.md) due 9/24 |
 | Sept 29 | [Workshop] Exam Review (dcbrown travel) | |
-| Oct 1   | Exam (dcbrown travel) | PM1.2.2 due 10/5 |
+| Oct 1   | Exam (dcbrown travel) | [PM1.2.2](./Projects/Project1/PM1.2.md) due 10/5 |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹  </th></tr> |
 | Oct 6   | [Guest Lecture] Greg Wilson |  HW2 due 10/7 |
 | Oct 8   | Project Workday | PM2.0 due 10/9  |
