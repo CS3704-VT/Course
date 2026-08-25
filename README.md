@@ -33,7 +33,7 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 25  | Introduction + Software Development Lifecycle |  |
+| Aug 25  | [Introduction + Software Development Lifecycle](./resources/lectures/Introduction.pdf) |  |
 | Aug 27  | SE Processes + Project Management | |
 | Sept 1  | [Workshop] SE Basics |  |
 | Sept 3  |  Project Workday | [PM1.0](./Projects/Project1/PM1.0.md), [HW0](./HWs/HW0.md) due 9/4 |
