@@ -14,7 +14,7 @@
 
 | Name | Role | Email | Office Hours |
 |------|------|-------|--------------|
-| Dr. Chris Brown | Instructor | dcbrown@vt.edu | Tu/Th 11am-12pm, 4105 Gilbert or [Zoom](https://virginiatech.zoom.us/my/dcbrown) |
+| Dr. Chris Brown | Instructor | dcbrown@vt.edu | Tu/Wed 11am-12pm, 4105 Gilbert or [Zoom](https://virginiatech.zoom.us/my/dcbrown) |
 | Minyhuk Ko | GTA | minhyukko@vt.edu | Mon 9-11am |
 | Jai Sundaram | UTA | jsundaram@vt.edu | TBD |
 
