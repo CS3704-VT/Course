@@ -14,13 +14,13 @@
 
 | Name | Role | Email | Office Hours |
 |------|------|-------|--------------|
-| Dr. Chris Brown | Instructor | dcbrown@vt.edu | Tu/Wed 11am-12pm, 4105 Gilbert or [Zoom](https://virginiatech.zoom.us/my/dcbrown) |
-| Minyhuk Ko | GTA | minhyukko@vt.edu | Mon 9-11am |
-| Jai Sundaram | UTA | jsundaram@vt.edu | TBD |
+| Dr. Chris Brown | Instructor | dcbrown@vt.edu | Tu/Wed 11am-12pm in 4105 Gilbert or [Zoom](https://virginiatech.zoom.us/my/dcbrown) |
+| Minyhuk Ko | GTA | minhyukko@vt.edu | Mon 9-11am on [Zoom](https://virginiatech.zoom.us/j/9431029588) |
+| Jai Sundaram | UTA | jsundaram@vt.edu | Th 4-6pm on [Zoom] |
 
 
 ### Office Hours
-You may attend any of the instructor and/or TA office hours. All TA office hours will be hosted in 1120 Torgerson, unless otherwise specified. The instructor is also available by appointment (please email).
+You may attend any of the instructor and/or TA office hours. All TA office hours will be hosted on Zoom (see links above). Please contact the TAs to set up an in-person meeting if necessary. The instructor is also available by appointment if no office hour time works with your schedule (please email).
 
 ### Communication
 Students may contact the teaching staff via email. Expect a response within 1-2 days. If a response is not provided after that time, please send a follow-up email.
