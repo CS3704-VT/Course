@@ -24,7 +24,7 @@ By the end of this course, students should be able to:
 * **Final Exam:** Mon December 14, 7:45am-9:45pm, HITT 340
 * **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Tu/Wed 11:00am-12:00pm; Gilbert 4105 or [Zoom](https://virginiatech.zoom.us/my/dcbrown)
 * **GTA:** Minhyuk Ko [minhyukko@vt.edu], *Office hours:* Mon 9-11am; [Zoom](https://virginiatech.zoom.us/j/9431029588)
-* **UTA:** Jai Sundaram [jsundaram@vt.edu], *Office hours:* Th 4-6pm; [Zoom]
+* **UTA:** Jai Sundaram [jsundaram@vt.edu], *Office hours:* Th 4-6pm; [Zoom](https://virginiatech.zoom.us/j/81378638943)
 
 ## Schedule 
 
