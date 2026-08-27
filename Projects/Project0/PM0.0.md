@@ -6,7 +6,7 @@ Each student must install, configure, and verify the software, tools, and depend
 
 ## 0. Before you start
 
-You need `git` and Node.js 18+.
+You need [`git`](https://git-scm.com/), [Node.js](https://nodejs.org/en), and [`npm`](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (can be installed with Node.js).
 
 ```sh
 git --version
@@ -20,6 +20,15 @@ Get an ARC API key from [llm.arc.vt.edu](https://llm.arc.vt.edu) → *Settings �
 export ARC_API_KEY=sk-...     # macOS / Linux — add to ~/.bashrc or ~/.zshrc
 setx ARC_API_KEY sk-...       # Windows — then open a NEW terminal
 ```
+
+Alternatively for [Windows](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_environment_variables?view=powershell-7.6&viewFallbackFrom=powershell-7.2#saving-environment-variables-with-setenvironmentvariable), you can set your environment variable through the control panel:
+
+>    Open the System Control Panel.
+>    Select **System**.
+>    Select **Advanced System Settings**.
+>    Go to the **Advanced** tab.
+>    Select **Environment Variables**....
+>    Make your changes.
 
 Check it survives a new terminal:
 
