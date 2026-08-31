@@ -78,7 +78,7 @@ Search for documentation on the specific SE processes used by software engineers
 - [ ] Reported challenges (if applicable)
 - [ ] Benefits (if applicable)
 
-Then briefly review your entries in the context of other responses on the spreadsheet to answer the following. Questions 8 and 9 should be a few sentences each; question 10 should be a solid paragraph.
+Then briefly review your entries in the context of other responses on the spreadsheet to answer the following.
 
 7. After reviewing the class spreadsheet, which software development processes appear to be the most commonly used? Are there any patterns you noticed across companies? What was the most interesting or surprising thing you noticed in the list?
 
