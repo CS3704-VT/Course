@@ -1,4 +1,4 @@
-# CS3704 (Intermediate Software Design and Engineering) Course Syllabus (Fall 2026)
+# CS3704: Intermediate Software Design and Engineering<br>Course Syllabus (Fall 2026)
 
 ## Table of Contents
 * [TEACHING STAFF INFORMATION](#teaching-staff)
@@ -14,7 +14,7 @@
 
 | Name | Role | Email | Office Hours |
 |------|------|-------|--------------|
-| Dr. Chris Brown | Instructor | dcbrown@vt.edu | Tu/Wed 11am-12pm in 4105 Gilbert or [Zoom](https://virginiatech.zoom.us/my/dcbrown) |
+| Dr. Chris Brown | Instructor | dcbrown@vt.edu | Tu/Wed 12-1pm in 4105 Gilbert or [Zoom](https://virginiatech.zoom.us/my/dcbrown) |
 | Minyhuk Ko | GTA | minhyukko@vt.edu | Mon 9-11am on [Zoom](https://virginiatech.zoom.us/j/9431029588) |
 | Jai Sundaram | UTA | jsundaram@vt.edu | Th 4-6pm on [Zoom](https://virginiatech.zoom.us/j/81378638943) |
 
