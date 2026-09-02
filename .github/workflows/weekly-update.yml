@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
-      - run: python .github/workflows/scripts/weekly_update.py
+      - run: python .github/workflows/scripts/weekly-update.py
