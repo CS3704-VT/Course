@@ -121,7 +121,7 @@ def build_message(items, monday, friday):
     lines = [f"##### \U0001f4c5 Weekly CS3704 Update\n> ##### Week of "
              f"{format_range(monday, friday)}", ""]
     if items:
-        lines.append("**Assignments due this week (Mon\u2013Fri):**")
+        lines.append("**Hello @channel, the following assignments are due this week (Mon\u2013Fri):**")
         lines.append("")
         for kind, name, due, link in items:
             if kind == "exam":
