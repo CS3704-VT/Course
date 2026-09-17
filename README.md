@@ -38,11 +38,11 @@ By the end of this course, students should be able to:
 | Sept 1  | [Workshop] SE Basics |  |
 | Sept 3  |  Project Workday | [PM1.0](./Projects/Project1/PM1.0.md), [HW0](./HWs/HW0.md) due 9/4 |
 | <tr><th colspan=3> 📜 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Sept 8  | Project Management + Requirements Elicitation |  |
-| Sept 10 | Requirements Analysis and Specification |  [HW1](./HWs/HW1.md) due 9/11 |
+| Sept 8  | [Project Management + Requirements Elicitation](./resources/lectures/Project-Management_Requirements-Elicitation.pdf) |  |
+| Sept 10 | [Requirements Analysis and Specification](./resources/lectures/Requirements-Analysis_Specification.pdf) |  [HW1](./HWs/HW1.md) due 9/11 |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Sept 15 | Software Design and Architecture | [PM1.1](./Projects/Project1/PM1.1.md) due 9/16 |
-| Sept 17 | UI Design |  |
+| Sept 15 | [Software Design and Architecture](./resources/lectures/Software-Design.pdf) | [PM1.1](./Projects/Project1/PM1.1.md) due 9/16 |
+| Sept 17 | [UI Design](./resources/lectures/UI-Design.pdf) |  |
 | <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Midterm &nbsp;&nbsp;&nbsp; 🎬  </th></tr> |
 | Sept 22 | Project Workday |  |
 | Sept 24 | Project 1 Demos | [PM1.2.1](./Projects/Project1/PM1.2.md) due 9/24 |
