@@ -49,9 +49,9 @@ By the end of this course, students should be able to:
 | Sept 29 | No class (dcbrown travel) | |
 | Oct 1   | Exam (No class, dcbrown travel) | [PM1.2.2](./Projects/Project1/PM1.2.md) due 10/5 |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹  </th></tr> |
-| Oct 6   | [Guest Lecture] Greg Wilson |  HW2 due 10/7 |
+| Oct 6   | [Guest Lecture] Greg Wilson |   |
 | Oct 8   | Project Workday | PM2.0 due 10/9  |
-| Oct 13  | Implementation + Maintenance |  |
+| Oct 13  | Implementation + Maintenance | [HW2](./HWs/HW2.md) due 10/14 |
 | Oct 15  | [Guest Lecture] Matt McHugh |  |
 | Oct 20  | [Workshop] AI Writing Code  |  |
 | Oct 22  | [Guest Lecture] Ben Nelson  | PM2.1 due 10/23 |
