@@ -87,4 +87,4 @@ Upload the following on [Canvas](https://canvas.vt.edu/courses/234343/assignment
 Other grading checks:
 - [ ] Responses must be your own writing; disclose any meaningful AI use per the [AI policy](../AI_POLICY.md)
 
-**Due:** Wednesday (10/7) at 11:59pm
+**Due:** Wednesday (10/14) at 11:59pm
