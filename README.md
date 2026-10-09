@@ -50,21 +50,21 @@ By the end of this course, students should be able to:
 | Oct 1   | Exam (No class, dcbrown travel) | [PM1.2.2](./Projects/Project1/PM1.2.md) due 10/5 |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹  </th></tr> |
 | Oct 6   | [Guest Lecture] Greg Wilson |   |
-| Oct 8   | Project Workday | PM2.0 due 10/9  |
+| Oct 8   | Project Workday | [PM2.0](./Projects/Project2/PM2.0.md) due 10/9  |
 | Oct 13  | Implementation + Maintenance | [HW2](./HWs/HW2.md) due 10/14 |
 | Oct 15  | [Guest Lecture] Matt McHugh |  |
 | Oct 20  | [Workshop] AI Writing Code  |  |
-| Oct 22  | [Guest Lecture] Ben Nelson  | PM2.1 due 10/23 |
+| Oct 22  | [Guest Lecture] Ben Nelson  | [PM2.1](./Projects/Project2/PM2.1.md) due 10/23 |
 | <tr><th colspan=3>  🧪 &nbsp;&nbsp;&nbsp; Testing and Deployment &nbsp;&nbsp;&nbsp; 🚀  </th></tr> |
 | Oct 27  | [Workshop] Code Quality and Analysis |  |
 | Oct 29  | Testing |  HW3 due 10/30 |
 | Nov 3   | CI/CD and Deployment | |
-| Nov 5   | [Guest Lecture] Mike Irwin | PM2.2 due 11/6 |
+| Nov 5   | [Guest Lecture] Mike Irwin | [PM2.2](./Projects/Project2/PM2.2.md) due 11/6 |
 | Nov 10  | [Workshop] Testing and Debugging | |
 |  <tr><th colspan=3>  🔍 &nbsp;&nbsp;&nbsp; Advanced Topics &nbsp;&nbsp;&nbsp; 👀 </th></tr> |
 | Nov 12  | [Guest Lecture] Bilal Aziz |  | 
 | Nov 17  | Human Aspects of Software Engineering |   |
-| Nov 19  | Evidence-Based Software Engineering | PM2.3 due 11/20 |
+| Nov 19  | Evidence-Based Software Engineering | [PM2.3](./Projects/Project2/PM2.3.md) due 11/20 |
 |  <tr><th colspan=3> Thanksgiving Break </th></tr> |
 | Nov 24 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
 | Nov 26 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
@@ -72,5 +72,6 @@ By the end of this course, students should be able to:
 | Dec 1  | [Guest Lecture] David Bates  |  |
 | Dec 3  | Advanced Topic | HW4 due 12/4 |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 🏁  </th></tr> |
-| Dec 8  | Retrospective / Project Workday | PM2.4 due 12/9 |
-| Dec 14 | Final Exam / Project Demos | PM2.5 due 12/14 |
+| Dec 8  | Retrospective / Project Workday | [PM2.4](./Projects/Project2/PM2.4.md) due 12/9 |
+| Dec 14 | Final Exam / Project Demos | [PM2.5](./Projects/Project2/PM2.5.md) due 12/14 |
+
