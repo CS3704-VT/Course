@@ -43,11 +43,14 @@ Create a GitHub Actions CI/CD workflow (`.github/workflows/{file}.yml`) to autom
 * Report test results (pass/fail) clearly
 * Add automated linting and/or static analysis to the CI pipeline (see sample common tools below)
 
-| Language	| Linting	| Static Analysis	|
-| Python	| Ruff (https://docs.astral.sh/ruff/) or flake8 (https://flake8.pycqa.org/)	| mypy (https://mypy-lang.org/) (type checking), Bandit (https://bandit.readthedocs.io/) (security), pylint (https://pylint.org/) |
-| JavaScript/TypeScript	| ESLint (https://eslint.org/)	| TypeScript (https://www.typescriptlang.org/) (tsc --noEmit), ESLint security plugins (https://github.com/eslint-community/eslint-plugin-security), SonarJS (https://github.com/SonarSource/SonarJS)	|
-| Java |	Checkstyle (https://checkstyle.sourceforge.io/) or Spotless (https://github.com/diffplug/spotless)	| PMD (https://pmd.github.io/), SpotBugs (https://spotbugs.github.io/) |
-| General |	pre-commit (https://pre-commit.com/) |	| | 
+| Language | Linting | Static Analysis |
+|----------|---------|-----------------|
+| Python | [Ruff](https://docs.astral.sh/ruff/), [Black](https://black.readthedocs.io/), [flake8](https://flake8.pycqa.org/), [pycodestyle](https://pycodestyle.pycqa.org/)/[pyflakes](https://github.com/PyCQA/pyflakes), [autopep8](https://github.com/hhatto/autopep8) | [mypy](https://mypy-lang.org/) (type checking), [Pyright](https://github.com/microsoft/pyright) (type checking), [pylint](https://pylint.org/), [radon](https://radon.readthedocs.io/) (complexity), [prospector](https://prospector.readthedocs.io/) |
+| JavaScript/TypeScript | [ESLint](https://eslint.org/), [Biome](https://biomejs.dev/), [Prettier](https://prettier.io/), [StandardJS](https://standardjs.com/), [typescript-eslint](https://typescript-eslint.io/) | [TypeScript](https://www.typescriptlang.org/) (`tsc --noEmit`, type checking), [SonarJS](https://github.com/SonarSource/SonarJS) |
+| Java | [Checkstyle](https://checkstyle.sourceforge.io/) or [Spotless](https://github.com/diffplug/spotless) | [PMD](https://pmd.github.io/), [SpotBugs](https://spotbugs.github.io/) |
+| General | [pre-commit](https://pre-commit.com/) | [SonarQube](https://www.sonarsource.com/products/sonarqube/) |
+
+> Note: Other linters and static analysis tools beyond those listed above are also acceptable.
 ### Project Management
 
 You must include a brief report summarizing at least two _standup meeting notes **for each participant**_, a _retrospective_ of the current milestone, and _sprint planning_ of prioritized tasks for the next milestone. Please upload this to Canvas or clearly describe in your repository where the progress report is located.
