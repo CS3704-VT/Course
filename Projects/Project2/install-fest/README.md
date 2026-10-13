@@ -161,10 +161,31 @@ Review the original project README and follow the instructions to run the projec
 
 ### Commit the setup to your fork
 
+Commit and push the latest changes to your forked repository so your team has a consistent environment.
+
+### Repositoy Structure
+
+The completed structure of your repository should look something like this:
+
+my-project/
+├── README.md          ← project
+├── src/               ← project
+├── package.json       ← project
+├── baker.yml          ← downloaded by the student
+│
+├── .opencode/         ← agent-template
+│   ├── agents/
+│   └── skills/
+├── opencode.json      ← agent-template
+├── PHASE.md           ← agent-template
+├── docs/templates/    ← agent-template
+│
+├── AGENTS.md          ← project + agent-template
+└── .gitignore         ← project + agent-template
 
 ### Start the agents
 
-From the top level of your fork:
+From the top level of your forked repository directory, run:
 
 ```bash
 opencode
@@ -173,14 +194,11 @@ opencode
 Then, inside opencode:
 
 ```
-@assignment analyze PM2            # pulls the assignment details into your project
-/skills  →  learning-goal          # set your goals for this project (10–15 minutes)
+/skills  →  learning-goal          # set your team goals for this project
 /skills  →  orient                 # to familiarize your team with the new codebase
 ```
 
-
-The full guide is agent-template's
-[STUDENT_GUIDE.md](https://github.com/CS3704-VT/agent-template/blob/main/docs/STUDENT_GUIDE.md).
+The full guide to the agent-template is available at [STUDENT_GUIDE.md](https://github.com/CS3704-VT/agent-template/blob/main/docs/STUDENT_GUIDE.md).
 
 ### Claude Code or Codex
 
