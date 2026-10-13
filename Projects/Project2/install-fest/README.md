@@ -163,25 +163,38 @@ Review the original project README and follow the instructions to run the projec
 
 Commit and push the latest changes to your forked repository so your team has a consistent environment.
 
-### Repositoy Structure
+### Repository Structure
 
 The completed structure of your repository should look something like this:
 
 my-project/
+
 ├── README.md          ← project
+
 ├── src/               ← project
+
 ├── package.json       ← project
+
 ├── baker.yml          ← downloaded by the student
+
 │
 ├── .opencode/         ← agent-template
+
 │   ├── agents/
+
 │   └── skills/
+
 ├── opencode.json      ← agent-template
+
 ├── PHASE.md           ← agent-template
+
 ├── docs/templates/    ← agent-template
+
 │
 ├── AGENTS.md          ← project + agent-template
+
 └── .gitignore         ← project + agent-template
+
 
 ### Start the agents
 
