@@ -31,11 +31,11 @@ In the commands below, replace:
 
 ## Step 0 — Pre-requisites
 
-Opencode and your ARC API key should be setup from the [Project 0](https://github.com/CS3704-VT/Course/blob/main/Projects/Project0/PM0.0.md) assignment.
+Opencode, nodejs, and your ARC API key should be setup from the [Project 0](https://github.com/CS3704-VT/Course/blob/main/Projects/Project0/PM0.0.md) assignment.
 
 ### Node version
 
-Most of these projects will not install on an old Node.js:
+If `node --version` is lower than what your project needs (see below), please install the appropriate version from [nodejs.org](https://nodejs.org) or use `nvm`.
 
 | Project | Needs Node |
 |---------|-----------|
@@ -43,11 +43,9 @@ Most of these projects will not install on an old Node.js:
 | Hokie Scheduler, StudyTime, Hokie Trade | 20.19+ or **22.12+** |
 | Skynet, Art Reference Archive | 18 or newer |
 
-If `node --version` is lower than your project needs, install the appropriate version from [nodejs.org](https://nodejs.org) (or use `nvm`).
-
 ---
 
-## Step 1 — Fork and clone your project (One Project 2 team member)
+## Step 1 — Fork and clone the original project repository
 
 1. One team member needs to open your project's **original repository** on GitHub and click **Fork** (top right). 
 2. Clone **the forked repository**, not the original, and `cd` into it:
@@ -66,19 +64,24 @@ If `node --version` is lower than your project needs, install the appropriate ve
 From the top level of your fork:
 
 ```bash
-curl -o baker.yml https://raw.githubusercontent.com/OWNER/REPO/main/<folder>/baker.yml
+curl -o baker.yml https://raw.githubusercontent.com/<OWNER>/<REPO>/main/<folder>/baker.yml
+```
+
+Example:
+
+```bash
+cd <folder>
+curl -o baker.yml https://raw.githubusercontent.com/<OWNER>/<REPO>/main/skynet/baker.yml
 ```
 
 > **Windows PowerShell:** type `curl.exe`, not `curl`. In PowerShell, plain `curl` is a different command and the line above will fail.
 
-Example for Skynet:
-
-```bash
-cd Skynet
-curl -o baker.yml https://raw.githubusercontent.com/OWNER/REPO/main/skynet/baker.yml
-```
+If `curl` does not work, you may also download the file manually and copy it int
+o the local clone of your forked repository.
 
 ### A2. Bake
+
+Inside the top level of your project directory with the `baker.yml` file present, run the following commands:
 
 ```bash
 baker bake .
@@ -87,7 +90,7 @@ baker run setup
 
 - `baker bake .` installs the tools and adds the agents, skills, and git hook to your fork.
 - ⚠️ **_If one student is able to make it here, then they can push these changes to GitHub and everyone else should be able to pull and get the agent-template setup! Additional dependencies will have to be added manually though..._**
-- `baker run setup` installs your project's own dependencies (`npm install`, and so on) and prints what to do next. It must run **after** `bake`, from the same folder.
+- `baker run setup` installs your project's own dependencies (`npm install`, and so on). It must run **after** `bake`, from the same folder.
 
 ---
 
@@ -95,11 +98,11 @@ baker run setup
 
 Use this if Baker would not install or `baker bake` keeps failing. You will do by hand exactly what the baker file does.
 
-> **Windows:** run every command in this section in **Git Bash**, **not** PowerShell or Command Prompt.
+> **Windows:** run every command in this section in **Git Bash**, **not** PowerShell or Command Prompt. _Disclaimer: this was not tested on Windows..._
 
-### B1. Get agent-template next to your project
+### B1. Clone the agent-template next to your project
 
-Clone it into the folder that **contains** your fork, not inside your fork:
+Clone it into a new folder **next to** your forked repository, not inside your forked repo directory:
 
 ```bash
 cd ..                                                    # leave your fork
@@ -146,59 +149,11 @@ ls .opencode/agents          # assignment.md  build.md  dcbrown.md  plan.md ...
 ls .opencode/skills          # analysis  concept-explain  learning-goal  quiz ...
 ```
 
+If this did not work, you can use the `copy` or `xcopy` commands in the Windows command prompt to manually copy the files across directories (not in PowerShell). The file explorer also allows you to copy and paste files into a new location manually.
+
 ### B3. Install your project's dependencies
 
-Run the block for **your** project from the top level of your fork (still in Git Bash on Windows).
-
-**Art Reference Archive** (needs Python 3)
-
-```bash
-python -m pip install flask          # macOS/Linux: python3 -m pip install flask
-```
-
-**Hokie Scheduler**
-
-```bash
-cd hokie-scheduler
-npm ci
-npm run setup                        # creates hokie-scheduler/.env (API keys are optional)
-cd ..
-```
-
-**Skynet**
-
-```bash
-npm install
-```
-
-**StudyTime** (needs [Docker Desktop](https://www.docker.com/products/docker-desktop) and
-Python 3.12: `winget install Python.Python.3.12` on Windows)
-
-```bash
-cd backend
-python -m venv .venv                 # macOS/Linux: python3.12 -m venv .venv
-.venv/Scripts/pip install -r requirements.txt ruff     # macOS/Linux: .venv/bin/pip ...
-cd ../frontend
-npm ci
-cd ..
-```
-
-StudyTime also needs a `.env` file at the top level. The README says to copy `.env.example`,
-but that file is not in the repository, so get the values from the original team or
-your instructor.
-
-**The Clubhouse**
-
-```bash
-npm install
-cp -n .env.example .env.local        # blank values = runs on mock data
-```
-
-**Hokie Trade** (also install **Expo Go** on your phone)
-
-```bash
-npm install
-```
+Review the original project README and follow the instructions to run the projects. If needed, install any additional dependencies manually.
 
 ---
 
@@ -226,3 +181,8 @@ Then, inside opencode:
 
 The full guide is agent-template's
 [STUDENT_GUIDE.md](https://github.com/CS3704-VT/agent-template/blob/main/docs/STUDENT_GUIDE.md).
+
+### Claude Code or Codex
+
+If you prefer to use another agentic coding system, switch to the appropriate branch in the cloned agent-template repository (currently supports `claude-code` and `codex`). Then copy the agent-template files into your forked repository directory (see step B2).
+
