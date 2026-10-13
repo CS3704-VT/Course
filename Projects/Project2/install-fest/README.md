@@ -64,14 +64,14 @@ If `node --version` is lower than what your project needs (see below), please in
 From the top level of your fork:
 
 ```bash
-curl -o baker.yml https://raw.githubusercontent.com/<OWNER>/<REPO>/main/<folder>/baker.yml
+curl -o baker.yml https://raw.githubusercontent.com/CS3704-VT/Course/refs/heads/main/Projects/Project2/install-fest/<project-dir>/baker.yml
 ```
 
-Example:
+Example for Art Reference Archive:
 
 ```bash
-cd <folder>
-curl -o baker.yml https://raw.githubusercontent.com/<OWNER>/<REPO>/main/skynet/baker.yml
+cd Art-Reference-Archive-CS3704-pr1-        # local clon of forked repo
+curl -o baker.yml https://raw.githubusercontent.com/CS3704-VT/Course/refs/heads/main/Projects/Project2/install-fest/art-reference-archive/baker.yml
 ```
 
 > **Windows PowerShell:** type `curl.exe`, not `curl`. In PowerShell, plain `curl` is a different command and the line above will fail.
@@ -90,7 +90,7 @@ baker run setup
 
 - `baker bake .` installs the tools and adds the agents, skills, and git hook to your fork.
 - ⚠️ **_If one student is able to make it here, then they can push these changes to GitHub and everyone else should be able to pull and get the agent-template setup! Additional dependencies will have to be added manually though..._**
-- `baker run setup` installs your project's own dependencies (`npm install`, and so on). It must run **after** `bake`, from the same folder.
+- `baker run setup` installs your project's own dependencies (`npm install`, and so on). It must run **after** `bake`, from the same folder. This command may not run on Windows due to the `&&` operator. Please run the commands separately on your terminal to get the same effect.
 
 ---
 
