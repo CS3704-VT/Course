@@ -1,0 +1,55 @@
+# CS3704 Project 2 — Hokie Scheduler
+# https://github.com/VTgrace/CS3704_Project1
+#
+#
+# Download this file into the root of your fork as baker.yml (see README.md), then:
+#
+#   cd CS3704_Project1
+#   baker bake .
+#   baker run setup
+#
+# ⚠️ NODE VERSION: vite 8 and @vitejs/plugin-react 6 require Node ^20.19 or
+# >=22.12 (from package-lock.json). 
+# 
+# local: {} is the current directory where the agents and skills will land.
+
+name: cs3704-hokie-scheduler
+
+local: {}
+
+tools:
+  - git
+  - node
+  - opencode:
+      install: npm
+
+# ---- agent-template extraction --------
+
+resources:
+  # The agents, skills, plugin, scripts, opencode.json, PHASE.md and docs/ from the agent-template repo.
+  - git:
+      repo: https://github.com/CS3704-VT/agent-template
+      ref: extract
+      dest: .
+      extract: true
+
+config:
+  - files:
+      - src: https://raw.githubusercontent.com/CS3704-VT/agent-template/main/AGENTS.md
+        dest: AGENTS.md
+        append: true
+      - src: https://raw.githubusercontent.com/CS3704-VT/agent-template/main/.gitignore
+        dest: .gitignore
+        append: true
+      # Git does not track .git/, so the hook cannot ride in the branch.
+      - src: https://raw.githubusercontent.com/CS3704-VT/agent-template/main/hooks/post-commit
+        dest: .git/hooks/post-commit
+        mode: "0755"
+
+commands:
+  setup: |
+    set -e
+    npm ci && npm run setup
+    echo ""
+    echo "🍞 Hokie Scheduler is wired up with the CS3704 agents."
+

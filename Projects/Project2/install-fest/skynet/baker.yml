@@ -1,0 +1,52 @@
+# CS3704 Project 2 — Skynet Internship Finder
+# https://github.com/rcolinmichaelvt/Skynet
+#
+#
+# Download this file into the root of your fork as baker.yml (see README.md), then:
+#
+#   cd Skynet
+#   baker bake .
+#   baker run setup
+#
+# local: {} is the current directory where the agents and skills will land.
+
+name: cs3704-skynet
+
+local: {}
+
+tools:
+  - git
+  - node
+  - opencode:
+      install: npm
+
+# ---- agent-template extraction --------
+
+resources:
+  # The agents, skills, plugin, scripts, opencode.json, PHASE.md and docs/ from the agent-template repo.
+
+  - git:
+      repo: https://github.com/CS3704-VT/agent-template
+      ref: extract
+      dest: .
+      extract: true
+
+config:
+  - files:
+      - src: https://raw.githubusercontent.com/CS3704-VT/agent-template/main/AGENTS.md
+        dest: AGENTS.md
+        append: true
+      - src: https://raw.githubusercontent.com/CS3704-VT/agent-template/main/.gitignore
+        dest: .gitignore
+        append: true
+      - src: https://raw.githubusercontent.com/CS3704-VT/agent-template/main/hooks/post-commit
+        dest: .git/hooks/post-commit
+        mode: "0755"
+
+commands:
+  setup: |
+    set -e
+    npm install
+    echo ""
+    echo "🍞 Skynet is wired up with the CS3704 agents."
+
