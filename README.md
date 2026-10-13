@@ -51,7 +51,7 @@ By the end of this course, students should be able to:
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; Implementation and Maintenance &nbsp;&nbsp;&nbsp; 🧹  </th></tr> |
 | Oct 6   | [Guest Lecture] Greg Wilson |   |
 | Oct 8   | Project Workday | [PM2.0](./Projects/Project2/PM2.0.md) due 10/9  |
-| Oct 13  | Implementation + Maintenance | [HW2](./HWs/HW2.md) due 10/14 |
+| Oct 13  | [Implementation + Maintenance](./resources/lectures/Implementation-Maintenance.pdf) | [HW2](./HWs/HW2.md) due 10/14 |
 | Oct 15  | [Guest Lecture] Matt McHugh |  |
 | Oct 20  | [Workshop] AI Writing Code  |  |
 | Oct 22  | [Guest Lecture] Ben Nelson  | [PM2.1](./Projects/Project2/PM2.1.md) due 10/23 |
