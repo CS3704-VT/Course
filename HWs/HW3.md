@@ -70,7 +70,7 @@ cd install/OpenLeetCode
 
 After your testing is complete, open a pull request to `CS3704-VT/OpenLeetcode` that references the issue (e.g., `Closes #<issue>`). Include a summary of the change, the CLI test results, and your AI-use disclosure.
 
-9. Peer review (assigned)
+9. Peer review
 
 **TODO:** Review **another** student's open pull request (not your own created issue or your own PR) and post a review comment covering:
 - [ ] **Overview** — a short summary of the review
