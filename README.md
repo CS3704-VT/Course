@@ -56,7 +56,7 @@ By the end of this course, students should be able to:
 | Oct 20  | [Workshop] [AI Writing Code](./resources/lectures/AI-Writing-Code.pdf)  |  |
 | Oct 22  | [Guest Lecture] Ben Nelson  | [PM2.1](./Projects/Project2/PM2.1.md) due 10/23 |
 | <tr><th colspan=3>  🧪 &nbsp;&nbsp;&nbsp; Testing and Deployment &nbsp;&nbsp;&nbsp; 🚀  </th></tr> |
-| Oct 27  | [Workshop] Code Quality and Analysis |  |
+| Oct 27  | ~~[Workshop] Code Quality and Analysis~~ (class cancelled) |  |
 | Oct 29  | Testing |  HW3 due 10/30 |
 | Nov 3   | CI/CD and Deployment | |
 | Nov 5   | [Guest Lecture] Mike Irwin | [PM2.2](./Projects/Project2/PM2.2.md) due 11/6 |
