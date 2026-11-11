@@ -51,10 +51,16 @@ Create a GitHub Actions CI/CD workflow (`.github/workflows/{file}.yml`) to autom
 | General | [pre-commit](https://pre-commit.com/) | [SonarQube](https://www.sonarsource.com/products/sonarqube/) |
 
 > Note: Other linters and static analysis tools beyond those listed above are also acceptable.
+
+### Agentic Verification
+
+Add agentic verification to your project's version of the [course agent-template](https://github.com/CS3704-VT/agent-template) to automatically verify the functionality and assess the quality of your Project 2 implementations (see [Testing and Debugging Workshop: Task 4](https://github.com/chbrown13/labspace-testing/blob/main/labspace/05-ai-agent.md)).
+
 ### Project Management
 
 You must include a brief report summarizing at least two _standup meeting notes **for each participant**_, a _retrospective_ of the current milestone, and _sprint planning_ of prioritized tasks for the next milestone. Please upload this to Canvas or clearly describe in your repository where the progress report is located.
 
 **Due: November 20 at 11:59pm**
-- [ ] CI/CD configuration
+- [ ] CI/CD Configuration
+- [ ] Agentic Verification (agent(s) and/or skill(s))
 - [ ] Progress Report
