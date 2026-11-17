@@ -41,7 +41,7 @@ Skim (recommended, not required): §2.8.3 Decision-making (pp. 53-55) and §3.4.
 
 ### Reading Questions
 
-**TODO:** Answer each of the following in a short written response (roughly 150-200 words each). These are reflection questions mostly graded on your understanding of the reading and a thoughtful response, not on correctness.
+**TODO:** Answer each of the following with a short response. These reflection questions are mostly graded on your understanding of the reading and a thoughtful response, not on correctness.
 
 1. **Measurement and benchmarks.** The reading describes how measurements shift depending on who or what does the measuring (developers' self-reported times vs. observers, tools that disagree with each other) and how benchmarks can be gamed or cherry-picked (Intel's "independent" Pentium 4 benchmarks, Samsung detecting benchmark apps, etc.). AI coding tools are now routinely marketed with benchmark scores. Discuss how a developer should evaluate AI-generated code or a claim that _"Tool X solves 70% of benchmark Y"_ or _"X is 2x faster than Y"_. What specific questions would be good to ask when you encounter numbers like this?
 
@@ -91,16 +91,14 @@ Use these resources to find candidates:
 - GitHub's [good-first-issue topic](https://github.com/topics/good-first-issue) and [issue search for `good first issue`](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues) or `help wanted`
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners), [CodeTriage](https://www.codetriage.com/), and [Open Source Guides: How to Contribute](https://opensource.guide/how-to-contribute/)
 - [First Contributions](https://github.com/firstcontributions/first-contributions) if you want to practice the GitHub fork/branch/PR workflow first
-- Civic tech and humanitarian projects: [Code for America Brigade](https://brigade.codeforamerica.org/), [Hack for LA](https://www.hackforla.org/), [Code for Boston](https://www.codeforboston.org/), [Chi Hack Night](https://chihacknight.org/), [Ushahidi](https://github.com/ushahidi/platform), [Sahana Eden](https://github.com/sahana/eden), [OpenMRS](https://github.com/openmrs/openmrs-core), [DHIS2](https://github.com/dhis2/dhis2-core), [HOT Tasking Manager](https://github.com/hotosm/tasking-manager), and [Public Lab](https://github.com/publiclab/plots2)
-- GitHub topics: [`humanitarian`](https://github.com/topics/humanitarian), [`civic-tech`](https://github.com/topics/civic-tech), [`hfoss`](https://github.com/topics/hfoss), and [`social-impact`](https://github.com/topics/social-impact)
 
-These are starting points, not endorsements. Check that the project is active (recent commits, merged PRs, and issue responses), has an open-source license, and has a contribution process you can follow. Avoid issues that are assigned or already claimed, security-sensitive, very large, or dependent on hardware or private accounts you do not have.
+These are starting points, but you can use other resources. Check that the project is active (recent commits, merged PRs, and issue responses), has an open-source license, and has a contribution process you can follow. Avoid issues that are assigned or already claimed, security-sensitive, very large, or dependent on hardware or private accounts you do not have.
 
 In a short brief, include:
 
 - Project name, URL, license, and primary language
 - Issue number and URL, and a one-sentence summary of what it asks for
-- Why you selected this project and issue (personal interest, humanitarian/civic relevance, skills you want to build, etc.)
+- How/why you selected this project and issue (personal interest, humanitarian/civic relevance, skills you want to build, etc.)
 - Evidence that the project is active and welcoming (recent activity, maintainer responses, labels, `CONTRIBUTING`/code of conduct)
 - What you expect the change to involve, how you will verify it, and the main risks or unknowns
 - **AI-use report:** Does the project have an AI contribution policy? If so, summarize it. How could AI appropriately help with this issue (for example, exploring the codebase, reproducing the bug, drafting tests, or editing documentation), what would you not delegate to AI, and what disclosure does the project require? If the project has no policy, say so and apply the course AI policy.
@@ -128,11 +126,11 @@ The change must be substantive: a bug fix, a test improvement, a small feature, 
 
 ### 4. Open a pull request
 
-_Optional bonus:_ Open a pull request from your fork to the original repository. The PR must follow the project's template and conventions, reference the issue (for example, `Closes #<issue>`), summarize the change, include your test evidence and AI-use disclosure if required, and respond professionally to review. A well-formed PR earns bonus credit even if maintainers do not merge it; merging is outside your control and is not required. Do not open a PR if the project's policies prohibit unsolicited or AI-assisted contributions, or if the issue is already claimed. Never pressure maintainers to review or merge; if there is no response after at least a week, a single polite follow-up in the same thread is appropriate.
+**TODO**: Open a pull request from your fork to the original repository. The PR must follow the project's template and conventions, reference the issue (for example, `Closes #<issue>`), summarize the change, include your test evidence and AI-use disclosure if required, and respond professionally to review. A well-formed PR earns bonus credit even if maintainers do not merge it; merging is outside your control and is not required. Do not open a PR if the project's policies prohibit unsolicited or AI-assisted contributions, or if the issue is already claimed. Never pressure maintainers to review or merge; if there is no response after at least a week, a single polite follow-up in the same thread is appropriate.
 
-### 5. [Reflection]
+### 5. Reflection
 
-In a short paragraph (~150-200 words), reflect on Part 2. How did you find your project and issue, and what surprised you about the project's norms, documentation, or communication? What was harder than you expected: setting up the project, reproducing the issue, understanding the code, or keeping the change small? How did you verify your fix and any AI-generated suggestions? Which ideas from the human-aspects readings (for example, information asymmetry, group learning and forgetting, expertise, or cognitive load) help explain what you observed? Would you contribute to this project again, and what would you do differently next time? If you opened a bonus PR, describe how the review or lack of response affected your view of open-source contribution.
+In a short paragraph, reflect on this activity. How did you find your project and issue, and what surprised you about the project's norms, documentation, or communication? Would you contribute to this project again, and what would you do differently next time? If applicable, describe how the review or lack of response affected your view of open-source contribution.
 
 
 ---
