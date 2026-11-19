@@ -7,7 +7,7 @@ Software engineering is full of claims about what makes development "better", an
 For this activity, you will need Python 3, a GitHub token, and an ARC API key. Run all commands from the root of your clone of the course repository.
 
 **Scripts**
-    - Download the `llmbench.py` and `mine.py` Python scripts into the directory where you will complete this activity. You will not need to modify them for this assignment.
+    - Download the [`llmbench.py`](https://github.com/CS3704-VT/Course/blob/main/resources/llmbench.py) and [`mine.py`](https://github.com/CS3704-VT/Course/blob/main/resources/mine.py) Python scripts from the Course repository into the directory where you will complete this activity. You will not need to modify them for this assignment.
 
 **GitHub token** 
     - Create a [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) with **public repository read-only** access. If your Project 2 repository is private, also grant the token read access to that repository (fine-grained tokens let you select specific repositories).
